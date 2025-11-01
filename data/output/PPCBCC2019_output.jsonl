@@ -23381,6 +23381,798 @@
             [
                 "Sociedade Brasileira de Computação (SBC). 153p, 2017."
             ]
-        ]
+        ],
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Matriz Curricular: 2° PERÍODO",
+            "cabecalho": [
+                "DISCIPLINA",
+                "CH_Semanal_Teorica",
+                "CH_Semanal_Pratica",
+                "CH_Semanal_Total",
+                "CH_Semestral_Hora_Aula",
+                "CH_Semestral_Horas",
+                "Pre_Requisitos"
+            ],
+            "linhas": [
+                {
+                    "DISCIPLINA": "Algoritmos e Programação",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "2",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Introdução à Ciência da Computação"
+                },
+                {
+                    "DISCIPLINA": "Cálculo de Várias Variáveis",
+                    "CH_Semanal_Teorica": "6",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "6",
+                    "CH_Semestral_Hora_Aula": "108",
+                    "CH_Semestral_Horas": "90",
+                    "Pre_Requisitos": "Cálculo I"
+                },
+                {
+                    "DISCIPLINA": "Álgebra Linear",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Geometria Analí- tica e Álgebra Linear"
+                },
+                {
+                    "DISCIPLINA": "Inglês Instrumental para Computação II",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "2",
+                    "CH_Semestral_Hora_Aula": "36",
+                    "CH_Semestral_Horas": "30",
+                    "Pre_Requisitos": "Inglês Instrumental para Computação I"
+                },
+                {
+                    "DISCIPLINA": "Sistemas Digitais",
+                    "CH_Semanal_Teorica": "3",
+                    "CH_Semanal_Pratica": "1",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "-"
+                },
+                {
+                    "DISCIPLINA": "Matemática Discreta",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "-"
+                }
+            ],
+            "resumo_semantico": "Lista de disciplinas para 2° PERÍODO",
+            "legenda": null,
+            "pagina_origem": null
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Matriz Curricular: 3° PERÍODO",
+            "cabecalho": [
+                "DISCIPLINA",
+                "CH_Semanal_Teorica",
+                "CH_Semanal_Pratica",
+                "CH_Semanal_Total",
+                "CH_Semestral_Hora_Aula",
+                "CH_Semestral_Horas",
+                "Pre_Requisitos"
+            ],
+            "linhas": [
+                {
+                    "DISCIPLINA": "Algoritmos e Estruturas de Dados",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "2",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Algoritmos e Programação"
+                },
+                {
+                    "DISCIPLINA": "Física Clássica para Computação",
+                    "CH_Semanal_Teorica": "3",
+                    "CH_Semanal_Pratica": "1",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Cálculo I"
+                },
+                {
+                    "DISCIPLINA": "Metodologia Científica",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "2",
+                    "CH_Semestral_Hora_Aula": "36",
+                    "CH_Semestral_Horas": "30",
+                    "Pre_Requisitos": "-"
+                },
+                {
+                    "DISCIPLINA": "Arquitetura de Computadores I",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Sistemas Digitais"
+                },
+                {
+                    "DISCIPLINA": "Introdução à Teoria dos Grafos",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Matemática Discreta"
+                }
+            ],
+            "resumo_semantico": "Lista de disciplinas para 3° PERÍODO",
+            "legenda": null,
+            "pagina_origem": null
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Dados do PPC",
+            "cabecalho": [],
+            "linhas": [
+                {
+                    "disciplinas_optativas": [
+                        {
+                            "DISCIPLINA": "",
+                            "CH_Semanal_Teorica": "",
+                            "CH_Semanal_Pratica": "Teórica Prática Total Hora-aula Horas",
+                            "CH_Semanal_Total": "",
+                            "CH_Semestral_Hora_Aula": "",
+                            "CH_Semestral_Horas": "",
+                            "Pre_Requisitos": ""
+                        },
+                        {
+                            "DISCIPLINA": "Computação Natural",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Contabilidade e Custos",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "2",
+                            "CH_Semestral_Hora_Aula": "36",
+                            "CH_Semestral_Horas": "30",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Data Warehouse",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Gerenciamento e Aplicações de Banco de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação I",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação II",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação III",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação IV",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desenvolvimento para Ambiente Microsoft .NET",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Programação Orientada a Objetos"
+                        },
+                        {
+                            "DISCIPLINA": "Desenvolvimento para Ambientes Móveis",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Programação Orientada a Objetos"
+                        },
+                        {
+                            "DISCIPLINA": "Economia",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Equações Diferenciais",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Cálculo III"
+                        },
+                        {
+                            "DISCIPLINA": "Laboratório de Física I",
+                            "CH_Semanal_Teorica": "0",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "2",
+                            "CH_Semestral_Hora_Aula": "36",
+                            "CH_Semestral_Horas": "30",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Laboratório de Redes de Computadores",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Redes de Computadores"
+                        },
+                        {
+                            "DISCIPLINA": "Marketing Digital",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Mineração de dados",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Estruturas de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Métodos Ágeis",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Engenharia de Software"
+                        },
+                        {
+                            "DISCIPLINA": "Programação e Implementação de Jogos Digitais",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Estruturas de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Qualidade de Software",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Engenharia de Software"
+                        },
+                        {
+                            "DISCIPLINA": "Recuperação da Informação",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Estruturas de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Redes de Computadores II",
+                            "CH_Semanal_Teorica": "3",
+                            "CH_Semanal_Pratica": "1",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Redes de Computadores"
+                        },
+                        {
+                            "DISCIPLINA": "Tópicos Avançados em",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Redes de"
+                        }
+                    ]
+                }
+            ],
+            "resumo_semantico": null,
+            "legenda": null,
+            "pagina_origem": null
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Corpo Docente",
+            "cabecalho": [
+                "Item",
+                "Nome do Professor",
+                "Formacao",
+                "Regime de Trabalho"
+            ],
+            "linhas": [
+                {
+                    "Item": "I tem Nome do Professor",
+                    "Nome do Professor": "",
+                    "Formacao": "Formação",
+                    "Regime de Trabalho": "Regime de Trabalho"
+                },
+                {
+                    "Item": "1",
+                    "Nome do Professor": "Alberto Alexandre Assis Miranda",
+                    "Formacao": "Graduação: Bacharelado em Ciência da Computação Pós-graduação: Mestrado em Ciência da Computação Doutorado em Ciência da Computação",
+                    "Regime de Trabalho": "DE"
+                },
+                {
+                    "Item": "2",
+                    "Nome do Professor": "Alberto Silva",
+                    "Formacao": "Graduação: Engenharia Eletrônica e de Telecomunicação Pós-graduação: Mestrado em Ciências Técnicas Nucleares",
+                    "Regime de Trabalho": "DE"
+                },
+                {
+                    "Item": "3",
+                    "Nome do Professor": "Caribe Zampirolli de Souza",
+                    "Formacao": "Graduação: Ciência da Computação Pós-Graduação: Mestrado em Informática",
+                    "Regime de Trabalho": "DE"
+                },
+                {
+                    "Item": "4",
+                    "Nome do Professor": "Danilo Teixeira Silva",
+                    "Formacao": "Graduação: Bacharelado em Ciência da Computação Pós-graduação: Especialização em Redes e",
+                    "Regime de Trabalho": "DE"
+                }
+            ],
+            "resumo_semantico": "Lista de docentes, formação e regime de trabalho.",
+            "legenda": null,
+            "pagina_origem": null
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Matriz Curricular: 2° PERÍODO",
+            "cabecalho": [
+                "DISCIPLINA",
+                "CH_Semanal_Teorica",
+                "CH_Semanal_Pratica",
+                "CH_Semanal_Total",
+                "CH_Semestral_Hora_Aula",
+                "CH_Semestral_Horas",
+                "Pre_Requisitos"
+            ],
+            "linhas": [
+                {
+                    "DISCIPLINA": "Algoritmos e Programação",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "2",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Introdução à Ciência da Computação"
+                },
+                {
+                    "DISCIPLINA": "Cálculo de Várias Variáveis",
+                    "CH_Semanal_Teorica": "6",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "6",
+                    "CH_Semestral_Hora_Aula": "108",
+                    "CH_Semestral_Horas": "90",
+                    "Pre_Requisitos": "Cálculo I"
+                },
+                {
+                    "DISCIPLINA": "Álgebra Linear",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Geometria Analí- tica e Álgebra Linear"
+                },
+                {
+                    "DISCIPLINA": "Inglês Instrumental para Computação II",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "2",
+                    "CH_Semestral_Hora_Aula": "36",
+                    "CH_Semestral_Horas": "30",
+                    "Pre_Requisitos": "Inglês Instrumental para Computação I"
+                },
+                {
+                    "DISCIPLINA": "Sistemas Digitais",
+                    "CH_Semanal_Teorica": "3",
+                    "CH_Semanal_Pratica": "1",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "-"
+                },
+                {
+                    "DISCIPLINA": "Matemática Discreta",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "-"
+                }
+            ],
+            "resumo_semantico": "Lista de disciplinas para 2° PERÍODO",
+            "legenda": null,
+            "pagina_origem": null
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Matriz Curricular: 3° PERÍODO",
+            "cabecalho": [
+                "DISCIPLINA",
+                "CH_Semanal_Teorica",
+                "CH_Semanal_Pratica",
+                "CH_Semanal_Total",
+                "CH_Semestral_Hora_Aula",
+                "CH_Semestral_Horas",
+                "Pre_Requisitos"
+            ],
+            "linhas": [
+                {
+                    "DISCIPLINA": "Algoritmos e Estruturas de Dados",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "2",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Algoritmos e Programação"
+                },
+                {
+                    "DISCIPLINA": "Física Clássica para Computação",
+                    "CH_Semanal_Teorica": "3",
+                    "CH_Semanal_Pratica": "1",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Cálculo I"
+                },
+                {
+                    "DISCIPLINA": "Metodologia Científica",
+                    "CH_Semanal_Teorica": "2",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "2",
+                    "CH_Semestral_Hora_Aula": "36",
+                    "CH_Semestral_Horas": "30",
+                    "Pre_Requisitos": "-"
+                },
+                {
+                    "DISCIPLINA": "Arquitetura de Computadores I",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Sistemas Digitais"
+                },
+                {
+                    "DISCIPLINA": "Introdução à Teoria dos Grafos",
+                    "CH_Semanal_Teorica": "4",
+                    "CH_Semanal_Pratica": "0",
+                    "CH_Semanal_Total": "4",
+                    "CH_Semestral_Hora_Aula": "72",
+                    "CH_Semestral_Horas": "60",
+                    "Pre_Requisitos": "Matemática Discreta"
+                }
+            ],
+            "resumo_semantico": "Lista de disciplinas para 3° PERÍODO",
+            "legenda": null,
+            "pagina_origem": null
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Dados do PPC",
+            "cabecalho": [],
+            "linhas": [
+                {
+                    "disciplinas_optativas": [
+                        {
+                            "DISCIPLINA": "",
+                            "CH_Semanal_Teorica": "",
+                            "CH_Semanal_Pratica": "Teórica Prática Total Hora-aula Horas",
+                            "CH_Semanal_Total": "",
+                            "CH_Semestral_Hora_Aula": "",
+                            "CH_Semestral_Horas": "",
+                            "Pre_Requisitos": ""
+                        },
+                        {
+                            "DISCIPLINA": "Computação Natural",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Contabilidade e Custos",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "2",
+                            "CH_Semestral_Hora_Aula": "36",
+                            "CH_Semestral_Horas": "30",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Data Warehouse",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Gerenciamento e Aplicações de Banco de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação I",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação II",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação III",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desafios de Programação IV",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Programação"
+                        },
+                        {
+                            "DISCIPLINA": "Desenvolvimento para Ambiente Microsoft .NET",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Programação Orientada a Objetos"
+                        },
+                        {
+                            "DISCIPLINA": "Desenvolvimento para Ambientes Móveis",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Programação Orientada a Objetos"
+                        },
+                        {
+                            "DISCIPLINA": "Economia",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Equações Diferenciais",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Cálculo III"
+                        },
+                        {
+                            "DISCIPLINA": "Laboratório de Física I",
+                            "CH_Semanal_Teorica": "0",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "2",
+                            "CH_Semestral_Hora_Aula": "36",
+                            "CH_Semestral_Horas": "30",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Laboratório de Redes de Computadores",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Redes de Computadores"
+                        },
+                        {
+                            "DISCIPLINA": "Marketing Digital",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "-"
+                        },
+                        {
+                            "DISCIPLINA": "Mineração de dados",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Estruturas de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Métodos Ágeis",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Engenharia de Software"
+                        },
+                        {
+                            "DISCIPLINA": "Programação e Implementação de Jogos Digitais",
+                            "CH_Semanal_Teorica": "2",
+                            "CH_Semanal_Pratica": "2",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Estruturas de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Qualidade de Software",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Engenharia de Software"
+                        },
+                        {
+                            "DISCIPLINA": "Recuperação da Informação",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Algoritmos e Estruturas de Dados"
+                        },
+                        {
+                            "DISCIPLINA": "Redes de Computadores II",
+                            "CH_Semanal_Teorica": "3",
+                            "CH_Semanal_Pratica": "1",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Redes de Computadores"
+                        },
+                        {
+                            "DISCIPLINA": "Tópicos Avançados em",
+                            "CH_Semanal_Teorica": "4",
+                            "CH_Semanal_Pratica": "0",
+                            "CH_Semanal_Total": "4",
+                            "CH_Semestral_Hora_Aula": "72",
+                            "CH_Semestral_Horas": "60",
+                            "Pre_Requisitos": "Redes de"
+                        }
+                    ]
+                }
+            ],
+            "resumo_semantico": null,
+            "legenda": null,
+            "pagina_origem": null
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "ppc",
+            "titulo": "Corpo Docente",
+            "cabecalho": [
+                "Item",
+                "Nome do Professor",
+                "Formacao",
+                "Regime de Trabalho"
+            ],
+            "linhas": [
+                {
+                    "Item": "I tem Nome do Professor",
+                    "Nome do Professor": "",
+                    "Formacao": "Formação",
+                    "Regime de Trabalho": "Regime de Trabalho"
+                },
+                {
+                    "Item": "1",
+                    "Nome do Professor": "Alberto Alexandre Assis Miranda",
+                    "Formacao": "Graduação: Bacharelado em Ciência da Computação Pós-graduação: Mestrado em Ciência da Computação Doutorado em Ciência da Computação",
+                    "Regime de Trabalho": "DE"
+                },
+                {
+                    "Item": "2",
+                    "Nome do Professor": "Alberto Silva",
+                    "Formacao": "Graduação: Engenharia Eletrônica e de Telecomunicação Pós-graduação: Mestrado em Ciências Técnicas Nucleares",
+                    "Regime de Trabalho": "DE"
+                },
+                {
+                    "Item": "3",
+                    "Nome do Professor": "Caribe Zampirolli de Souza",
+                    "Formacao": "Graduação: Ciência da Computação Pós-Graduação: Mestrado em Informática",
+                    "Regime de Trabalho": "DE"
+                },
+                {
+                    "Item": "4",
+                    "Nome do Professor": "Danilo Teixeira Silva",
+                    "Formacao": "Graduação: Bacharelado em Ciência da Computação Pós-graduação: Especialização em Redes e",
+                    "Regime de Trabalho": "DE"
+                }
+            ],
+            "resumo_semantico": "Lista de docentes, formação e regime de trabalho.",
+            "legenda": null,
+            "pagina_origem": null
+        }
     ]
 }

@@ -1,0 +1,3036 @@
+{
+    "doc_id": "",
+    "nome_doc": "Estágio",
+    "versao": "2023.1",
+    "data_publicacao": "2023-01-01",
+    "pagina_inicial": 1,
+    "pagina_final": 13,
+    "estrutura": [
+        {
+            "tipo": "paragrafo",
+            "numero": null,
+            "texto": "Ministério da Educação Secretaria de Educação Profissional e Tecnológica Ins\u0000tuto Federal do Norte de Minas Gerais - Reitoria Conselho Superior RESOLUÇÃO CONSUP Nº 329, DE 4 DE MAIO DE 2023 Aprova alterações no Regulamento de Estágio de Discentes do IFNMG O CONSELHO SUPERIOR DO INSTITUTO FEDERAL DO NORTE DE MINAS GERAIS, no uso das atribuições que lhe confere a Lei nº 11.892/2008 e a Portaria Reitor(a) nº 462, de 10 de dezembro de 2021, publicada no Diário Oficial da União de 13 de dezembro de 2021 e re\u0000ficada pela Portaria Reitor(a) nº 468, de 13 de dezembro de 2021, publicada no Diário Oficial da União de 14 de dezembro de 2021, considerando: - a recomendação do Colégio de Dirigentes, em reunião ordinária realizada no dia 3 de maio de 2023; - a deliberação do Conselho Superior, em reunião ordinária realizada no dia 4 de maio de 2023; - o disposto no processo SEI nº 23414.002392/2021-18; RESOLVE:"
+        },
+        {
+            "tipo": "artigo",
+            "titulo": "Art. 1",
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "º Aprovar alterações no Regulamento de Estágio de Discentes do IFNMG que passa a vigorar conforme anexo."
+                }
+            ]
+        },
+        {
+            "tipo": "artigo",
+            "titulo": "Art. 2",
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "º Esta resolução entra em vigor na data de sua publicação. Joaquina Aparecida Nobre da Silva Presidenta do Consup ANEXO I À RESOLUÇÃO CONSELHO SUPERIOR Nº 329, DE 4 DE MAIO DE 2023 Ministério da Educação Secretaria de Educação Profissional e Tecnológica Ins\u0000tuto Federal do Norte de Minas Gerais - Reitoria Pró-Reitoria de Extensão e Cultura REGULAMENTO DE ESTÁGIO DE DISCENTES DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO NORTE DE MINAS GERAIS – IFNMG"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO I",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 1",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º O Estágio Curricular Supervisionado do IFNMG encontra amparo legal na Lei nº 11.788, de 25 de setembro de 2008, na legislação específica e nas demais regulamentações e orientações emanadas pelos órgãos competentes."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DO ESTÁGIO CURRICULAR SUPERVISIONADO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO II",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 2",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º O estágio visa ao aprendizado de competências próprias da a\u0000vidade profissional e à contextualização curricular, possibilitando o desenvolvimento do educando para a vida cidadã e para o mundo do trabalho."
+                        },
+                        {
+                            "numero": "Parágrafo único",
+                            "texto": ". Cons\u0000tuem-se obje\u0000vos do estágio:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "proporcionar o exercício da competência técnica e formação cidadã, visando complementar o ensino e a aprendizagem, como um instrumento de integração teórico/prá\u0000co, aperfeiçoamento técnico cultural, cien\u0000fico e de relacionamento humano;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "facilitar a adaptação social e psicológica do discente à sua futura a\u0000vidade profissional, cabendo ao IFNMG zelar para que o estágio represente autên\u0000ca a\u0000vidade pedagógica integrada;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "promover a ar\u0000culação do IFNMG com o mundo do trabalho."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DOS OBJETIVOS E FINALIDADES"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO III",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 3",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º O estágio, como ato educa\u0000vo, será supervisionado e poderá ser obrigatório ou não obrigatório, conforme determinação das diretrizes curriculares da etapa, modalidade e área de ensino e do projeto pedagógico do curso."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "Estágio obrigatório é aquele definido como tal no projeto do curso, cuja carga horária é requisito para aprovação e obtenção de diploma."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Estágio não obrigatório é aquele desenvolvido como a\u0000vidade opcional, acrescida à carga horária regular e obrigatória, ou seja, a carga horária do estágio não obrigatório será acrescida e devidamente registrada nos históricos e demais documentos escolares do discente."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "Fica aprovado o estágio em regime remoto ou teletrabalho no âmbito do IFNMG, desde que esteja disciplinado e previsto no Projeto Pedagógico do Curso. (incluído pela Resolução Consup nº 329, de 4 de maio de 2023)"
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "(alterado pela Resolução Consup nº 329, de 4 de maio de 2023)"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO IV",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 4",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º Para a realização do estágio curricular, obrigatório ou não, o estudante deverá apresentar os seguintes documentos à Diretoria de Extensão do Campus ou órgão equivalente:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "Requerimento de Estágio (em duas vias);"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "Termo de Compromisso de Estágio (em três vias, assinadas pelo discente, pela unidade concedente e pela ins\u0000tuição de ensino);"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "Plano de Estágio (em três vias, assinadas pelo discente, pelo supervisor da unidade concedente, pelo professor orientador da ins\u0000tuição de ensino e pelo coordenador do curso, ou cargo equivalente)."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "A realização dos estágios mencionados no caput se aplica aos discentes em curso e aos que já concluíram a carga horária de disciplinas, conforme previsto no Projeto Pedagógico, obedecendo- se as condições e prazos nele estabelecidos e/ou regulamentação própria do estágio no curso."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Somente serão aceitos registros de estágios de alunos dos cursos técnicos de nível médio, graduação e pós-graduação (lato ou stricto sensu), que indicarem, em seus Projetos Pedagógicos, a possibilidade da realização de estágio curricular, obrigatório ou não."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "O discente que iniciar o estágio regular sem que tenha efetuado seu requerimento perderá o tempo de estágio realizado, anteriormente à data do mesmo, exceto para os estudantes em mobilidade internacional, que obedecerão ao Capítulo V, e aqueles em aproveitamento de a\u0000vidades, que seguirão o Capítulo IX deste regulamento."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 5",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º O estágio não obrigatório será realizado enquanto o discente se man\u0000ver matriculado e frequente na Ins\u0000tuição."
+                        },
+                        {
+                            "numero": "Parágrafo único",
+                            "texto": ". Os procedimentos para requerer o estágio não obrigatório seguirão as mesmas normas estabelecidas para o estágio obrigatório."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DAS CONDIÇÕES PARA REALIZAÇÃO DO ESTÁGIO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO V",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 6",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º O estágio será realizado em en\u0000dades concedentes, ou por meio de agências de integração públicas ou privadas, devidamente conveniadas e/ou cadastradas no IFNMG, que apresentarem condições de proporcionar experiências prá\u0000cas na área de formação do discente."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "Entende-se por en\u0000dade concedente: empresas, ins\u0000tuições públicas ou privadas, terceiro setor (associações sem fins lucra\u0000vos) e profissionais liberais de nível superior (devidamente registrados em seus respec\u0000vos conselhos de fiscalização profissional, quando houver)."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "O estágio poderá ser realizado no próprio IFNMG, desde que as a\u0000vidades desenvolvidas assegurem o alcance dos obje\u0000vos previstos no art. 2º deste regulamento, devidamente aprovado pelo coordenador de curso, ou cargo equivalente, observando o percentual da carga horária mínima para estágio no próprio IFNMG, estabelecido no Projeto Pedagógico de cada curso."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "O estágio realizado pelo discente nas dependências do próprio IFNMG ou no âmbito da Administração Pública Federal deverá ainda obedecer à Orientação Norma\u0000va nº 02, de 24 de junho de 2016, emi\u0000da pelo Ministério do Planejamento, Orçamento e Gestão, para aceitação de estagiários na esfera federal."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 7",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º O prazo máximo para a conclusão do estágio obrigatório, após a integralização da carga horária dos cursos técnicos de nível médio e superiores, será de acordo com o disposto no Projeto Pedagógico no regulamento de cada modalidade de curso."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 8",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º Os discentes que realizarem estágio fora do Brasil (exterior), dentro de programas de intercâmbio interuniversitário, obedecerão aos procedimentos das universidades anfitriãs."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "No caso do estágio realizado em en\u0000dade concedente fora do Brasil (exterior), sem interveniência de universidade parceira, é necessário que o processo siga os mesmos trâmites do estágio realizado no país; neste caso os documentos deverão, obrigatoriamente, ser encaminhados, pelo discente, no ato de seu retorno, à ins\u0000tuição, à Pró-Reitoria de Extensão e à Assessoria de Relações Internacionais- Arinter, que fará análise e solicitará parecer da Procuradoria Jurídica junto ao IFNMG."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Nos casos inerentes ao caput deste ar\u0000go, os custos com viagem e tradução da documentação serão de total responsabilidade do estagiário."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "A tradução da documentação de estágio executado no exterior poderá ser realizada por servidores do IFNMG, devidamente habilitados."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 9",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": "º Somente poderão realizar estágio supervisionado os discentes que possuírem, no mínimo, 16 (dezesseis) anos completos, na data de início de estágio."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "O discente menor, em qualquer situação, precisará de autorização, por escrito, do responsável legal, para realizar o estágio."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Para situações de insalubridade e/ou periculosidade (conforme Norma Regulamentadora NR nº 15 e NR nº 16, do Ministério do Trabalho e Emprego – MTE), a idade mínima será de 18 (dezoito) anos completos."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 10",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O estágio será interrompido quando:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "houver trancamento de matrícula;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "não houver registro de frequência regular ao curso;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "o estagiário não comparecer às a\u0000vidades de estágio, sem mo\u0000vo jus\u0000ficado, por mais de 5 (cinco) dias consecu\u0000vos;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "ocorrer abandono do curso;"
+                        },
+                        {
+                            "numero": "V -",
+                            "texto": "houver mudança de curso;"
+                        },
+                        {
+                            "numero": "VI -",
+                            "texto": "houver uso de documentação falsa pelo estagiário;"
+                        },
+                        {
+                            "numero": "VII -",
+                            "texto": "a pedido do estagiário, com comunicação em, no máximo, 5 (cinco) dias úteis, por escrito, à concedente do estágio e às coordenações responsáveis da en\u0000dade educacional;"
+                        },
+                        {
+                            "numero": "IX -",
+                            "texto": "houver descumprimento de quaisquer cláusulas do Termo de Compromisso."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 11",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Será permi\u0000da a complementação da carga horária do Estágio Curricular Supervisionado obrigatório em mais de uma unidade concedente, sendo que a atuação do discente, em cada uma delas, não deverá ser inferior a 30% do total da carga horária exigida."
+                        },
+                        {
+                            "numero": "Parágrafo único",
+                            "texto": ". A complementação do Estágio Curricular Supervisionado obrigatório em outras unidades concedentes somente será possível mediante a assinatura de novos termos de compromisso, e após aprovado novo Plano de Estágio."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA REALIZAÇÃO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO VI",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 12",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". É facultado aos campi do IFNMG celebrar, com entes públicos e privados, convênio e/ou cadastro de concessão de estágio, nos quais se explicitem o processo educa\u0000vo, compreendido nas a\u0000vidades programadas para seus educandos e as condições de que tratam a legislação vigente."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 13",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". A formalização do estágio ocorrerá mediante assinatura do Termo de Compromisso, celebrado entre o IFNMG, a en\u0000dade concedente, o estagiário e o responsável legal, quando for o caso."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "O Termo de Compromisso deverá contemplar os seguintes itens:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "principais a\u0000vidades a serem desenvolvidas no campo de estágio;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "data do início e término do contrato;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "nome da seguradora e número da apólice do seguro contra acidentes pessoais;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "data da emissão;"
+                        },
+                        {
+                            "numero": "V -",
+                            "texto": "assinatura e carimbo da parte concedente do estágio e do IFNMG."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "A validade do Termo de Compromisso será de, no máximo, 24 (vinte e quatro) meses, exceto quando o estagiário for Pessoa com Deficiência (PcD)."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "Nas situações em que a en\u0000dade concedente apresentar Termo de Convênio e/ou de Compromisso de Estágio próprio, este poderá ser u\u0000lizado, desde que não discorde das disposições legais aplicáveis e das regulamentações do IFNMG."
+                        },
+                        {
+                            "numero": "§ 4º",
+                            "texto": "No caso de termos de convênio, estes deverão ser, obrigatoriamente, encaminhados para parecer jurídico da Procuradoria Federal junto ao IFNMG."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA FORMALIZAÇÃO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO VII",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 14",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O início do estágio obrigatório, para cômputo de carga horária, e a carga horária mínima do estágio para os cursos do IFNMG obedecerão ao disposto no Projeto Pedagógico de cada curso."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 15",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". A jornada de estágio será definida, em comum acordo, entre a ins\u0000tuição de ensino, a parte concedente e o estagiário, ou seu representante legal, não ultrapassando:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "04 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de discentes de educação especial, na modalidade profissional de educação de jovens e adultos;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "06 (seis) horas diárias e 30 (trinta) horas semanais, no caso de discentes dos cursos técnicos de nível médio e do ensino superior."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "O estágio rela\u0000vo a cursos que alternam teoria e prá\u0000ca, no período em que não estão programadas aulas presenciais, e para os discentes que integralizaram a carga horária do curso, a jornada poderá ser de até 40 (quarenta) horas semanais, conforme § 1º, art. 10 da Lei 11.788/08."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "O horário do estágio deverá compa\u0000bilizar-se com o horário escolar."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "As a\u0000vidades extraclasse que conflitarem com o horário do estágio deverão ser acordadas entre a Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente, a en\u0000dade concedente e o discente, com o obje\u0000vo de não prejudicarem o estagiário."
+                        },
+                        {
+                            "numero": "§ 4º",
+                            "texto": "O documento comprobatório das a\u0000vidades referidas no parágrafo anterior deverá ser emi\u0000do pelo coordenador de curso, ou cargo equivalente."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 16",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". As a\u0000vidades de extensão, iniciação cien\u0000fica e os projetos de ensino desenvolvidas pelo discente somente poderão ser equiparados ao estágio em caso de previsão no Projeto Pedagógico do Curso e/ou regulamentação própria do estágio no curso."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "As a\u0000vidades a que se refere o caput deste ar\u0000go poderão ter aproveitamento total ou parcial, mediante parecer do professor orientador e/ou coordenador da a\u0000vidade ou do projeto."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "As a\u0000vidades dos discentes, no âmbito de monitorias voluntárias ou remuneradas, desenvolvidas por meio de execução de projetos de Ensino, serão equiparadas ao estágio, obedecidas as condições estabelecidas no caput deste ar\u0000go."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "No caso das monitorias, é requisito, para sua validação como estágio, além do constante no caput deste ar\u0000go, que o candidato tenha concluído a disciplina ou o conteúdo acadêmico referente ao objeto da monitoria, bem como seus pré-requisitos, se for o caso."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 17",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O estagiário deverá ter um professor do IFNMG, definido como orientador, exceto para os cursos a distância, nos quais poderá atuar, como orientador, um bolsista do programa."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "O orientador de estágio deverá ter formação ou experiência profissional na área de conhecimento desenvolvida no curso do estagiário."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Nos cursos na modalidade educação a distância, a função de professor orientador poderá ser exercida pelo tutor ou professor-mediador presencial. (incluído pela Resolução Consup nº 185, de 7 de outubro de 2021)"
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 18",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O acompanhamento do estágio na en\u0000dade concedente será realizado por um supervisor de estágio, designado por esta."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "O supervisor de estágio deverá ter formação ou experiência profissional na área de conhecimento desenvolvida no curso do estagiário."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Para os cursos de Enfermagem, o estágio curricular supervisionado deverá ter acompanhamento efe\u0000vo e permanente do professor-orientador do IFNMG e do supervisor da parte concedente."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 19",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". A duração do estágio na mesma en\u0000dade concedente não poderá exceder 02 (dois) anos, exceto quando o estagiário for Pessoa com Deficiência (PcD)."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DO INÍCIO E DURAÇÃO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO VIII",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 20",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". A en\u0000dade concedente poderá oferecer ao estagiário bolsa ou outra forma de contraprestação que venha a ser acordada, sendo compulsória a sua concessão, na hipótese de estágio não obrigatório, bem como a do auxílio-transporte e seguro contra acidentes pessoais do estagiário, cuja apólice seja compa\u0000vel com valores de mercado, conforme estabelecido no Termo de Compromisso."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 21",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". No caso de estágio obrigatório, o IFNMG deverá contratar, em favor do estagiário, seguro contra acidentes pessoais, cuja apólice seja compa\u0000vel com valores de mercado, caso a en\u0000dade concedente não o faça."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA BOLSA E DO SEGURO DE ESTÁGIO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO IX",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 22",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Os discentes dos cursos técnicos de nível médio, exceto em Enfermagem, no caso de estágio obrigatório, que exercerem a\u0000vidades profissionais em áreas correlatas a seu curso, na condição de empregados devidamente registrados, autônomos ou empresários, poderão considerar tais a\u0000vidades como estágio."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "A aceitação do exercício de a\u0000vidades profissionais, a que se refere o caput deste ar\u0000go, como carga horária do estágio, poderá ser total ou parcial e dependerá de decisão do coordenador do curso, devidamente endossada pelo professor-orientador e comissão específica, indicada pelo já citado coordenador, que levarão em consideração o \u0000po de a\u0000vidade desenvolvida e o valor de sua contribuição na complementação da formação profissional, de acordo com o Projeto Pedagógico do Curso."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Os portadores de diploma de licenciatura que estejam cursando segunda licenciatura, com exercício comprovado no magistério e exercendo a\u0000vidade docente regular na educação básica, poderão ter redução da carga horária do estágio curricular supervisionado, até o máximo de 100 (cem) horas, conforme Resolução CNE/CP nº 02/2015."
+                        },
+                        {
+                            "numero": "§ 3º",
+                            "texto": "Os discentes dos cursos de bacharelado e tecnologia de nível profissional, que exercerem a\u0000vidades profissionais em áreas correlatas a seu curso, poderão solicitar aproveitamento dessas a\u0000vidades para composição da carga horária rela\u0000va ao estágio, salvo restrições determinadas por legislações específicas dos cursos."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 23",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Ao requerer o aproveitamento de suas a\u0000vidades profissionais como estágio, o discente deverá apresentar os seguintes documentos:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "se empregado, cópia da página de iden\u0000ficação e da parte da Carteira de Trabalho em que seja comprovado o vínculo emprega\u0000cio, ou portaria de nomeação e declaração que descreva as a\u0000vidades que desenvolve, emi\u0000das pela chefia imediata;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "se autônomo, comprovante de recolhimento do imposto sobre serviços, correspondente ao mês da entrada do requerimento e declaração que descreva as a\u0000vidades que executa;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "se empresário, cópia do contrato social da Empresa e declaração que descreva as a\u0000vidades que executa."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 24",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O prazo para a decisão do aproveitamento de a\u0000vidades profissionais como estágio será de até 15 (quinze) dias, a par\u0000r do recebimento de toda a documentação necessária."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DO APROVEITAMENTO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO X",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 25",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe ao estagiário:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "entregar, à Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente, os documentos devidamente preenchidos e assinados, para formalização, conforme os incisos I a III do art. 4º e §1º do art. 13;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "respeitar as cláusulas do Termo de Compromisso e Termo de Convênio, quando houver;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "acatar as normas da en\u0000dade concedente;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "entregar Relatório Parcial das A\u0000vidades de Estágio, com periodicidade máxima de 06 (seis) meses, nos casos em que o estágio for superior a este tempo;"
+                        },
+                        {
+                            "numero": "V -",
+                            "texto": "apresentar, ao professor-orientador, para correção e parecer de aprovação, o Relatório Final de Estágio;"
+                        },
+                        {
+                            "numero": "VI -",
+                            "texto": "após aprovação, encaminhar, ao professor-orientador, o Relatório Final, em formato digital, contendo: a) plano de estágio; b) ficha de avaliação de estágio, feita pelo estagiário; c) ficha de avaliação de estágio, feita pela en\u0000dade concedente."
+                        },
+                        {
+                            "numero": "VII -",
+                            "texto": "defender, formalmente, o Relatório Final de Estágio, quando previsto no Projeto Pedagógico do Curso;"
+                        },
+                        {
+                            "numero": "VIII -",
+                            "texto": "comunicar, ao seu professor-orientador e à Diretoria de Extensão do Campus, ou órgão equivalente, problemas ou dificuldades enfrentadas no estágio, bem como sua eventual desistência ou interesse em prorrogar o tempo deste."
+                        },
+                        {
+                            "numero": "Parágrafo único",
+                            "texto": ". O Relatório Final de Estágio é o documento de conclusão do estágio, que deverá descrever, de forma detalhada, todas as a\u0000vidades desenvolvidas durante o período, conforme normas estabelecidas pelo campus."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DO ESTAGIÁRIO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XI",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 26",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe à Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "iden\u0000ficar e divulgar as oportunidades de estágio;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "prestar serviços administra\u0000vos de cadastramento de discentes e de toda a execução do processo de formalização do estágio;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "providenciar, junto à Direção-Geral do campus, contrato de seguro contra acidentes pessoais em favor dos estagiários, quando couber;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "encaminhar, à en\u0000dade concedente, o discente candidato a estágio;"
+                        },
+                        {
+                            "numero": "V -",
+                            "texto": "selecionar, quando houver convênio com a en\u0000dade concedente, o discente estagiário;"
+                        },
+                        {
+                            "numero": "VI -",
+                            "texto": "assegurar a legalidade do processo de estágio;"
+                        },
+                        {
+                            "numero": "VII -",
+                            "texto": "assinar o Termo de Compromisso, celebrado entre o IFNMG, a en\u0000dade concedente e o estagiário, desde de que haja delegação formal de tal competência;"
+                        },
+                        {
+                            "numero": "VIII -",
+                            "texto": "propor normas complementares e instrumentos de avaliação dos estágios para os discentes do IFNMG;"
+                        },
+                        {
+                            "numero": "IX -",
+                            "texto": "enviar, à Proex, ao final de cada semestre, por meio do Sistema de Informes e Registros das Ações de Extensão, as ações rela\u0000vas aos estágios."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA DIRETORIA DE EXTENSÃO DO CAMPUS DO IFNMG, OU ÓRGÃO EQUIVALENTE"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XII",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 27",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe ao professor-orientador:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "orientar o discente na elaboração do plano de estágio, no desenvolvimento das a\u0000vidades e na confecção do Relatório Final de Estágio;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "monitorar o envio e o recebimento de documentos rela\u0000vos ao acompanhamento do estágio;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "esclarecer, aos discentes, temas de interesse do estágio;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "par\u0000cipar de eventos relacionados ao estágio, incluindo as reuniões para tratar de assuntos afins, quando convocado ou convidado pelas instâncias dire\u0000vas do IFNMG;"
+                        },
+                        {
+                            "numero": "V -",
+                            "texto": "emi\u0000r parecer de aprovação total ou parcial na Ficha de Avaliação do Estágio feita pela en\u0000dade concedente;"
+                        },
+                        {
+                            "numero": "VI -",
+                            "texto": "encaminhar a Declaração de Conclusão, total ou parcial, do estágio à Coordenação de Curso ou à Coordenação de Estágio;"
+                        },
+                        {
+                            "numero": "VII -",
+                            "texto": "comunicar, à Diretoria de Extensão ou órgão equivalente, à Coordenação de Curso, Coordenação de Estágio, ou órgão equivalente, as desistências, irregularidades e necessidade de prorrogação."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DO PROFESSOR-ORIENTADOR"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XIII",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 28",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe ao coordenador de curso, ou cargo equivalente:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "definir o quan\u0000ta\u0000vo de estagiários, por professor, entre os professores do respec\u0000vo curso, consideradas as especificidades do estágio e consultado o colegiado de curso;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "avaliar o Plano de Estágio;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "solicitar parecer, no caso de aproveitamento profissional, e deliberar sobre o assunto."
+                        },
+                        {
+                            "numero": "§ 1º",
+                            "texto": "O coordenador de curso poderá indicar um professor organizador do estágio, do próprio curso, para auxiliar nas a\u0000vidades rela\u0000vas ao estágio."
+                        },
+                        {
+                            "numero": "§ 2º",
+                            "texto": "Para os campi que possuírem, em seu quadro de servidores, o coordenador de estágio, este poderá exercer as seguintes a\u0000vidades, em subs\u0000tuição ao coordenador do curso:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "fornecer, ao estagiário, a documentação necessária à efe\u0000vação do estágio;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "atestar se o estudante cumpre os pré-requisitos do Projeto Pedagógico do curso, no Requerimento de Estágio, e despachá-lo ao estudante e à Diretoria/Coordenação de Extensão;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "encaminhar a Declaração de Conclusão Total do estagiário à Diretoria/Coordenação de Extensão, ou Núcleo de Relações Empresariais e Comerciais, ou Coordenação de Estágio e à Coordenadoria de Registro Escolar/Coordenadoria de Registro Acadêmico, para registro e arquivamento;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "arquivar, em formato digital, o Relatório Final de Estágio dos discentes."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DO COORDENADOR DE CURSO, OU CARGO EQUIVALENTE"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XIV",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 29",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe à Coordenação de Registro Acadêmico ou Escolar:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "atestar, no Requerimento de Estágio, se o estudante está regularmente matriculado no curso e habilitado a realizar o estágio;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "receber e arquivar a Declaração de Conclusão de Estágio da Diretoria/Coordenação de Extensão ou do Núcleo de Relações Empresariais e Comerciais;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "registrar a conclusão e as horas do estágio obrigatório no histórico do estudante."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA COORDENAÇÃO DE REGISTRO ACADÊMICO OU ESCOLAR"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XV",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 30",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe à Direção de Ensino, ou órgão equivalente nos campi, e à Diretoria de Pesquisa, Pós- Graduação e Inovação, na Reitoria:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "auxiliar, em parceria com a Diretoria de Extensão, ou órgão equivalente, na elaboração de regulamentos específicos e instrumentos de acompanhamento e avaliação dos estágios, respeitando os projetos de curso e a legislação em vigor;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "definir data limite para entrega, por parte do discente, do Relatório Final de Estágio, ao professor-orientador, para revisão/correção, obedecendo aos prazos estabelecidos neste regulamento;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "proporcionar, aos professores-orientadores de estágio, horários e condições para o desempenho de suas funções, para acompanhamento de cada estagiário nas a\u0000vidades desenvolvidas na unidade concedente;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "definir as datas e os professores responsáveis pelas bancas de defesa do relatório de estágio, quando houver."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA DIREÇÃO DE ENSINO, OU ÓRGÃO EQUIVALENTE E DA DIRETORIA DE PESQUISA, PÓS-GRADUAÇÃO E INOVAÇÃO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XVI",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 31",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe à en\u0000dade concedente do estágio:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "celebrar convênio e/ou fazer cadastro para concessão de estágio, junto à Diretoria de Extensão, ou órgão equivalente;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "comunicar, à Diretoria de Extensão, ou órgão equivalente, a existência de vagas para estagiários, bem como os requisitos necessários para seu preenchimento;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "firmar, com o IFNMG e o estagiário, o Termo de Compromisso de Estágio;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "estabelecer o valor da bolsa-auxílio e auxílio-transporte ao estagiário, quando couber;"
+                        },
+                        {
+                            "numero": "V -",
+                            "texto": "contratar, em favor do estagiário, seguro contra acidentes pessoais, quando couber;"
+                        },
+                        {
+                            "numero": "VI -",
+                            "texto": "indicar o supervisor de estágio, com formação ou experiência profissional na área de conhecimento desenvolvida no curso do estagiário;"
+                        },
+                        {
+                            "numero": "VII -",
+                            "texto": "informar, ao estagiário, as normas da en\u0000dade concedente;"
+                        },
+                        {
+                            "numero": "VIII -",
+                            "texto": "assegurar, ao estagiário, todas as condições necessárias para a plena realização de seu estágio, nos termos do art. 2º deste regulamento;"
+                        },
+                        {
+                            "numero": "IX -",
+                            "texto": "comunicar, à Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente, quaisquer necessidades de alterações no Termo de Compromisso de Estágio celebrado;"
+                        },
+                        {
+                            "numero": "X -",
+                            "texto": "enviar, à ins\u0000tuição de ensino, com periodicidade mínima de seis meses, relatório de a\u0000vidades, dando vista obrigatória ao estagiário;"
+                        },
+                        {
+                            "numero": "XI -",
+                            "texto": "encaminhar, à Diretoria de Extensão, ou órgão equivalente, após a conclusão do estágio, a Ficha de Avaliação de Estágio, devidamente assinada."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA ENTIDADE CONCEDENTE DE ESTÁGIO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XVII",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 32",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Cabe ao supervisor de estágio da parte concedente:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "acompanhar o discente na en\u0000dade concedente de estágio;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "assegurar a compa\u0000bilidade das a\u0000vidades desenvolvidas no estágio com o currículo do curso;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "proceder à avaliação de desempenho do estagiário, por meio de instrumento próprio, fornecido pela Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DO SUPERVISOR DE ESTÁGIO DA UNIDADE CONCEDENTE"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XVIII",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 33",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Compete à Pró-Reitoria de Extensão – Proex do IFNMG:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "prospectar convênios, a par\u0000r da no\u0000ficação do responsável pelo estágio dos campi, caso seja necessário, conforme art. 12 deste regulamento;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "divulgar, aos campi, a lista das unidades concedentes cadastradas e/ou conveniadas, ao final de cada semestre."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA PRÓ-REITORIA DE EXTENSÃO DO IFNMG"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XIX",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 34",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Os mecanismos de acompanhamento e de cumprimento do estágio obrigatório e não obrigatório cons\u0000tuem-se das seguintes etapas:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "elaboração do Plano de Estágio e Termo de Compromisso, a ser entregue à Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "elaboração, durante e após a realização do estágio, do(s) relatório(s) de estágio, por meio de discussões realizadas entre estagiário, o professor-orientador e o supervisor de estágio;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "especificamente, no caso de estágio obrigatório: a. defesa do Relatório Final de Estágio, se previsto no projeto de curso; b. entrega do Relatório Final de Estágio, aprovado pelo professor-orientador de estágio, à Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente."
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "especificamente, no caso de estágio não obrigatório, entrega da Ficha de Avaliação de Estágio, realizada pela en\u0000dade concedente."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DOS MECANISMOS DE ACOMPANHAMENTO, CUMPRIMENTO E AVALIAÇÃO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XX",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 35",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O estágio é composto por duas avaliações:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "a avaliação realizada pelo supervisor de estágio, efe\u0000vada por meio de Relatório de Estágio (feito pela en\u0000dade concedente), dando vista obrigatória ao estagiário;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "a avaliação final de estágio, feita pelo professor-orientador, efe\u0000vada por meio de Relatório Final de Estágio, ou por defesa com sustentação oral."
+                        },
+                        {
+                            "numero": "Parágrafo único",
+                            "texto": ". As avaliações do estágio serão regulamentadas pelo Projeto Pedagógico do Curso."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 36",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Na avaliação das a\u0000vidades desenvolvidas pelo estagiário, serão consideradas:"
+                        },
+                        {
+                            "numero": "I -",
+                            "texto": "a compa\u0000bilidade das a\u0000vidades desenvolvidas com o currículo do curso e com o Plano de Estágio;"
+                        },
+                        {
+                            "numero": "II -",
+                            "texto": "a qualidade e eficácia na realização das a\u0000vidades;"
+                        },
+                        {
+                            "numero": "III -",
+                            "texto": "a capacidade inovadora ou cria\u0000va demonstrada, por meio das a\u0000vidades desenvolvidas;"
+                        },
+                        {
+                            "numero": "IV -",
+                            "texto": "a capacidade de adaptar-se ao ambiente de trabalho."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 37",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Caso o discente tenha seu estágio reprovado, parcial ou totalmente, deverá refazer os procedimentos previstos no Projeto Pedagógico do Curso."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DA AVALIAÇÃO DO ESTÁGIO"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XXI",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 38",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ".O não cumprimento das normas estabelecidas neste regulamento resultará na perda das horas estagiadas ou na invalidação do estágio."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 39",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Qualquer irregularidade ocorrida deverá ser relatada à Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente, com a devida documentação."
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DAS IRREGULARIDADES E PUNIÇÕES"
+                }
+            ]
+        },
+        {
+            "tipo": "secao",
+            "titulo": "CAPÍTULO XXII",
+            "artigos": [
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 40",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". A realização do estágio por parte do discente não acarretará vínculo emprega\u0000cio de qualquer natureza para com a en\u0000dade concedente de estágio."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 41",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Será permi\u0000da a renovação do estágio, desde que seja obedecido o prazo máximo estabelecido no art. 7º."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 42",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Visitas técnicas, palestras, feiras e outros eventos de curta duração não serão computados como horas de estágio."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 43",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O estagiário de outra ins\u0000tuição de ensino que necessitar cumprir o estágio junto ao IFNMG deverá apresentar a carta de apresentação, elaborada pela ins\u0000tuição de origem, solicitando o acompanhamento do estágio, informando o período pretendido e a área de conhecimento."
+                        },
+                        {
+                            "numero": "Parágrafo único",
+                            "texto": ". O discente que se enquadrar no caput deste ar\u0000go deverá cumprir todas as normas estabelecidas neste regulamento, assim como as demais normas internas regentes do IFNMG."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 44",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". O setor de estágios, ou órgão equivalente, não terá obrigatoriedade de conseguir a vaga de estágio para o discente do IFNMG; porém, efe\u0000vará entendimentos, junto à parte concedente, no sen\u0000do de facilitar o encaminhamento de discentes."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 45",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Respeitadas as condições gerais estabelecidas pelo IFNMG e, devidamente autorizado, o discente poderá obter a própria vaga de estágio, desde que atendidos os requisitos propostos neste regulamento e no Projeto Pedagógico do Curso."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 46",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Os casos omissos e/ou dúvidas suscitadas, quando da aplicação deste regulamento, serão resolvidos pela Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente."
+                        }
+                    ]
+                },
+                {
+                    "tipo": "artigo",
+                    "titulo": "Art. 47",
+                    "paragrafos": [
+                        {
+                            "numero": null,
+                            "texto": ". Este Regulamento deverá ser revisto, quando houver necessidade, por inicia\u0000va do Comitê de Extensão – Coex ou Comitê de Ensino – Coen. Referência: Processo nº 23414.003519/2018-11 SEI nº 1539646"
+                        }
+                    ]
+                }
+            ],
+            "paragrafos": [
+                {
+                    "numero": null,
+                    "texto": "DAS DISPOSIÇÕES GERAIS"
+                }
+            ]
+        }
+    ],
+    "tables": [
+        [
+            [
+                "Estágio de Discentes do IFNMG"
+            ],
+            [
+                "O  CONSELHO  SUPERIOR  DO  INSTITUTO  FEDERAL  DO  NORTE  DE  MINAS  GERAIS,  no  uso"
+            ],
+            [
+                "das atribuições que lhe confere a Lei nº 11.892/2008 e a Portaria Reitor(a) nº 462, de 10 de dezembro de"
+            ],
+            [
+                "2021, publicada no Diário Oﬁcial da União de 13 de dezembro de 2021 e re\u0000ﬁcada pela Portaria Reitor(a)"
+            ],
+            [
+                "nº 468, de 13 de dezembro de 2021, publicada no Diário Oﬁcial da União de 14 de dezembro de 2021,"
+            ],
+            [
+                "considerando:"
+            ],
+            [
+                "-  a  recomendação  do  Colégio  de  Dirigentes,  em  reunião  ordinária  realizada  no  dia  3  de"
+            ],
+            [
+                "maio de 2023;"
+            ],
+            [
+                "- a deliberação do Conselho Superior, em reunião ordinária realizada no dia 4 de maio de"
+            ],
+            [
+                "2023;"
+            ]
+        ],
+        [
+            [
+                "Secretaria de Educação Proﬁssional e Tecnológica"
+            ],
+            [
+                "Ins\u0000tuto Federal do Norte de Minas Gerais - Reitoria"
+            ],
+            [
+                "Pró-Reitoria de Extensão e Cultura"
+            ],
+            [
+                "REGULAMENTO DE ESTÁGIO DE DISCENTES DO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E"
+            ],
+            [
+                "TECNOLOGIA DO NORTE DE MINAS GERAIS – IFNMG"
+            ]
+        ],
+        [
+            [
+                "",
+                "§  3º  Fica  aprovado  o  estágio  em  regime  remoto  ou  teletrabalho  no  âmbito  do  IFNMG,"
+            ],
+            [
+                "desde  que  esteja  disciplinado  e  previsto  no  Projeto  Pedagógico  do  Curso.  (incluído  pela  Resolução",
+                ""
+            ],
+            [
+                "Consup nº 329, de 4 de maio de 2023)",
+                ""
+            ],
+            [
+                "",
+                "CAPÍTULO IV"
+            ],
+            [
+                "",
+                "DAS CONDIÇÕES PARA REALIZAÇÃO DO ESTÁGIO"
+            ],
+            [
+                "",
+                "A\nrt.  4º  Para  a  realização  do  estágio  curricular,  obrigatório  ou  não,  o  estudante  deverá"
+            ],
+            [
+                "apresentar os seguintes documentos à Diretoria de Extensão do Campus ou órgão equivalente:",
+                ""
+            ],
+            [
+                "",
+                "I - Requerimento de Estágio (em duas vias);"
+            ],
+            [
+                "",
+                "II - Termo de Compromisso de Estágio (em três vias, assinadas pelo discente, pela unidade"
+            ],
+            [
+                "concedente e pela ins\u0000tuição de ensino);",
+                ""
+            ],
+            [
+                "",
+                "III  -  Plano  de  Estágio  (em  três  vias,  assinadas  pelo  discente,  pelo  supervisor  da  unidade"
+            ],
+            [
+                "concedente,  pelo  professor  orientador  da  ins\u0000tuição  de  ensino  e  pelo  coordenador  do  curso,  ou  cargo",
+                ""
+            ],
+            [
+                "equivalente).",
+                ""
+            ],
+            [
+                "",
+                "§\n 1º A realização dos estágios mencionados no  caput  se aplica aos discentes em curso e"
+            ],
+            [
+                "aos  que",
+                "já  concluíram  a  carga  horária  de  disciplinas,  conforme  previsto  no  Projeto  Pedagógico,"
+            ],
+            [
+                "obedecendo-  se  as  condições  e  prazos  nele  estabelecidos  e/ou  regulamentação  própria  do  estágio  no",
+                ""
+            ],
+            [
+                "curso.",
+                ""
+            ],
+            [
+                "",
+                "§  2º  Somente  serão  aceitos  registros  de  estágios  de  alunos  dos  cursos  técnicos  de  nível"
+            ],
+            [
+                "médio, graduação e pós-graduação (lato ou stricto sensu), que indicarem, em seus Projetos Pedagógicos,",
+                ""
+            ],
+            [
+                "a possibilidade da realização de estágio curricular, obrigatório ou não.",
+                ""
+            ],
+            [
+                "",
+                "§  3º  O  discente  que  iniciar  o  estágio  regular  sem  que  tenha  efetuado  seu  requerimento"
+            ],
+            [
+                "perderá  o  tempo  de  estágio  realizado,  anteriormente  à  data  do  mesmo,  exceto  para  os  estudantes  em",
+                ""
+            ],
+            [
+                "mobilidade  internacional,  que  obedecerão  ao  Capítulo  V,  e  aqueles  em  aproveitamento  de  a\u0000vidades,",
+                ""
+            ],
+            [
+                "que seguirão o Capítulo IX deste regulamento.",
+                ""
+            ],
+            [
+                "",
+                "A\nrt.  5º  O  estágio  não  obrigatório  será \nrealizado  enquanto  o  discente  se  man\u0000ver"
+            ],
+            [
+                "matriculado e frequente na Ins\u0000tuição.",
+                ""
+            ],
+            [
+                "",
+                "Parágrafo  único.  Os  procedimentos  para  requerer  o  estágio  não  obrigatório  seguirão  as"
+            ],
+            [
+                "mesmas normas estabelecidas para o estágio obrigatório.",
+                ""
+            ],
+            [
+                "",
+                "CAPÍTULO V"
+            ],
+            [
+                "",
+                "DA REALIZAÇÃO"
+            ],
+            [
+                "",
+                "Art.  6º  O  estágio  será  realizado  em  en\u0000dades  concedentes,  ou  por  meio  de  agências  de"
+            ],
+            [
+                "integração",
+                "públicas \nou \nprivadas, \ndevidamente \nconveniadas \ne/ou \ncadastradas \nno \nIFNMG, \nque"
+            ],
+            [
+                "apresentarem condições de proporcionar experiências prá\u0000cas na área de formação do discente.",
+                ""
+            ],
+            [
+                "",
+                "§  1º  Entende-se  por  en\u0000dade  concedente:  empresas,  ins\u0000tuições  públicas  ou  privadas,"
+            ],
+            [
+                "terceiro  setor  (associações  sem  ﬁns  lucra\u0000vos)  e  proﬁssionais  liberais  de  nível  superior  (devidamente",
+                ""
+            ],
+            [
+                "registrados em seus respec\u0000vos conselhos de ﬁscalização proﬁssional, quando houver).",
+                ""
+            ],
+            [
+                "",
+                "§  2º  O  estágio  poderá  ser \nrealizado  no  próprio \nIFNMG,  desde  que  as  a\u0000vidades"
+            ],
+            [
+                "desenvolvidas  assegurem  o  alcance  dos  obje\u0000vos  previstos  no  art.  2º  deste  regulamento,  devidamente",
+                ""
+            ]
+        ],
+        [
+            [
+                "aprovado  pelo  coordenador  de  curso,  ou  cargo  equivalente,  observando  o  percentual  da  carga  horária"
+            ],
+            [
+                "mínima para estágio no próprio IFNMG, estabelecido no Projeto Pedagógico de cada curso."
+            ],
+            [
+                "§ 3º O estágio realizado pelo discente nas dependências do próprio IFNMG ou no âmbito"
+            ],
+            [
+                "da Administração Pública Federal deverá ainda obedecer à Orientação Norma\u0000va nº 02, de 24 de junho"
+            ],
+            [
+                "de 2016, emi\u0000da pelo Ministério do Planejamento, Orçamento e Gestão, para aceitação de estagiários na"
+            ],
+            [
+                "esfera federal."
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "IX - houver descumprimento de quaisquer cláusulas do Termo de Compromisso.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt.  11.  Será  permi\u0000da  a  complementação  da  carga  horária  do  Estágio  Curricular",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Supervisionado obrigatório em mais de uma unidade concedente, sendo que a atuação do discente, em",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "cada uma delas, não deverá ser inferior a 30% do total da carga horária exigida.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "Parágrafo  único.  A  complementação  do  Estágio  Curricular  Supervisionado  obrigatório  em",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "outras  unidades  concedentes  somente  será  possível  mediante  a  assinatura  de  novos",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "termos  de"
+            ],
+            [
+                "compromisso, e após aprovado novo Plano de Estágio.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "CAPÍTULO VI",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "DA FORMALIZAÇÃO",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt. 12. É facultado aos campi do IFNMG celebrar, com entes públicos e privados, convênio",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "e/ou cadastro de concessão de estágio, nos quais se explicitem o processo educa\u0000vo, compreendido nas",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "a\u0000vidades programadas para seus educandos e as condições de que tratam a legislação vigente.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A\nrt.",
+                "13.  A",
+                "formalização",
+                "do",
+                "estágio  ocorrerá  mediante",
+                "assinatura",
+                "do",
+                "Termo",
+                "de"
+            ],
+            [
+                "Compromisso,  celebrado  entre  o  IFNMG,  a  en\u0000dade  concedente,  o  estagiário  e  o  responsável  legal,",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "quando for o caso.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "§ 1º O Termo de Compromisso deverá contemplar os seguintes itens:",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "I - principais a\u0000vidades a serem desenvolvidas no campo de estágio;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "II - data do início e término do contrato;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "III - nome da seguradora e número da apólice do seguro contra acidentes pessoais;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "IV - data da emissão;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "V - assinatura e carimbo da parte concedente do estágio e do IFNMG.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "§ 2º A validade do Termo de Compromisso será de, no máximo, 24 (vinte e quatro) meses,",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "exceto quando o estagiário for Pessoa com Deﬁciência (PcD).",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "§ 3º Nas situações em que a en\u0000dade concedente apresentar Termo de Convênio e/ou de",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Compromisso de Estágio próprio, este poderá ser u\u0000lizado, desde que não discorde das disposições legais",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "aplicáveis e das regulamentações do IFNMG.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "§ 4º No caso de termos de convênio, estes deverão ser, obrigatoriamente, encaminhados",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "para parecer jurídico da Procuradoria Federal junto ao IFNMG.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "CAPÍTULO VII",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "DO INÍCIO E DURAÇÃO",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt. 14. O início do estágio obrigatório, para cômputo de carga horária, e a carga horária",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "mínima  do  estágio  para  os  cursos  do  IFNMG  obedecerão  ao  disposto  no  Projeto  Pedagógico  de  cada",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "curso.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt.  15.  A  jornada  de  estágio  será  deﬁnida,  em  comum  acordo,  entre  a  ins\u0000tuição  de",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "ensino, a parte concedente e o estagiário, ou seu representante legal, não ultrapassando:",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "I - 04 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de discentes de educação"
+            ],
+            [
+                "especial, na modalidade proﬁssional de educação de jovens e adultos;",
+                ""
+            ],
+            [
+                "",
+                "II  -  06  (seis)  horas  diárias  e  30  (trinta)  horas  semanais,  no  caso  de  discentes  dos  cursos"
+            ],
+            [
+                "técnicos de nível médio e do ensino superior.",
+                ""
+            ],
+            [
+                "",
+                "§  1º  O  estágio  rela\u0000vo  a  cursos  que  alternam  teoria  e  prá\u0000ca,  no  período  em  que  não"
+            ],
+            [
+                "estão programadas aulas presenciais, e para os discentes que integralizaram a carga horária do curso, a",
+                ""
+            ],
+            [
+                "jornada poderá ser de até 40 (quarenta) horas semanais, conforme § 1º, art. 10 da Lei 11.788/08.",
+                ""
+            ],
+            [
+                "§ 2º O horário do estágio deverá compa\u0000bilizar-se com o horário escolar.",
+                ""
+            ],
+            [
+                "",
+                "§  3º  As  a\u0000vidades  extraclasse  que  conﬂitarem  com  o  horário  do  estágio  deverão  ser"
+            ],
+            [
+                "acordadas  entre  a  Diretoria  de  Extensão  do  Campus  do",
+                "IFNMG,  ou  órgão  equivalente,  a  en\u0000dade"
+            ],
+            [
+                "concedente e o discente, com o obje\u0000vo de não prejudicarem o estagiário.",
+                ""
+            ],
+            [
+                "",
+                "§ 4º O documento comprobatório das a\u0000vidades referidas no parágrafo anterior deverá ser"
+            ],
+            [
+                "emi\u0000do pelo coordenador de curso, ou cargo equivalente.",
+                ""
+            ]
+        ],
+        [
+            [
+                "CAPÍTULO VIII",
+                ""
+            ],
+            [
+                "DA BOLSA E DO SEGURO DE ESTÁGIO",
+                ""
+            ],
+            [
+                "A",
+                "rt.  20.  A  en\u0000dade  concedente  poderá  oferecer  ao  estagiário  bolsa  ou  outra  forma  de"
+            ],
+            [
+                "contraprestação que venha a ser acordada, sendo compulsória a sua concessão, na hipótese de estágio",
+                ""
+            ],
+            [
+                "não obrigatório, bem como a do auxílio-transporte e seguro contra acidentes pessoais do estagiário, cuja",
+                ""
+            ],
+            [
+                "apólice seja compa\u0000vel com valores de mercado, conforme estabelecido no Termo de Compromisso.",
+                ""
+            ],
+            [
+                "A",
+                "rt. 21. No caso de estágio obrigatório, o IFNMG deverá contratar, em favor do estagiário,"
+            ],
+            [
+                "seguro contra acidentes pessoais, cuja apólice seja compa\u0000vel com valores de mercado, caso a en\u0000dade",
+                ""
+            ],
+            [
+                "concedente não o faça.",
+                ""
+            ],
+            [
+                "CAPÍTULO IX",
+                ""
+            ],
+            [
+                "DO APROVEITAMENTO",
+                ""
+            ],
+            [
+                "A",
+                "rt. 22. Os discentes dos cursos técnicos de nível médio, exceto em Enfermagem, no caso"
+            ],
+            [
+                "de  estágio  obrigatório,  que  exercerem  a\u0000vidades  proﬁssionais  em  áreas  correlatas  a  seu  curso,  na",
+                ""
+            ],
+            [
+                "condição de empregados devidamente registrados, autônomos ou empresários, poderão considerar tais",
+                ""
+            ],
+            [
+                "a\u0000vidades como estágio.",
+                ""
+            ],
+            [
+                "",
+                "§  1º  A  aceitação  do  exercício  de  a\u0000vidades  proﬁssionais,  a  que  se  refere  o  caput  deste"
+            ],
+            [
+                "ar\u0000go, como carga horária do estágio, poderá ser total ou parcial e dependerá de decisão do coordenador",
+                ""
+            ],
+            [
+                "do  curso,  devidamente  endossada  pelo  professor-orientador  e  comissão  especíﬁca,",
+                "indicada  pelo  já"
+            ],
+            [
+                "citado  coordenador,  que  levarão  em  consideração  o  \u0000po  de  a\u0000vidade  desenvolvida  e  o  valor  de  sua",
+                ""
+            ],
+            [
+                "contribuição  na  complementação  da  formação  proﬁssional,  de  acordo  com  o  Projeto  Pedagógico  do",
+                ""
+            ],
+            [
+                "Curso.",
+                ""
+            ],
+            [
+                "",
+                "§ 2º Os portadores de diploma de licenciatura que estejam cursando segunda licenciatura,"
+            ],
+            [
+                "com  exercício  comprovado  no  magistério  e  exercendo  a\u0000vidade  docente  regular  na  educação  básica,",
+                ""
+            ],
+            [
+                "poderão ter redução da carga horária do estágio curricular supervisionado, até o máximo de 100 (cem)",
+                ""
+            ],
+            [
+                "horas, conforme Resolução CNE/CP nº 02/2015.",
+                ""
+            ],
+            [
+                "",
+                "§  3º  Os  discentes  dos  cursos  de  bacharelado  e  tecnologia  de  nível  proﬁssional,  que"
+            ],
+            [
+                "exercerem  a\u0000vidades  proﬁssionais  em  áreas  correlatas  a  seu  curso,  poderão  solicitar  aproveitamento",
+                ""
+            ],
+            [
+                "dessas a\u0000vidades para composição da carga horária rela\u0000va ao estágio, salvo restrições determinadas por",
+                ""
+            ],
+            [
+                "legislações especíﬁcas dos cursos.",
+                ""
+            ],
+            [
+                "A",
+                "rt.  23.  Ao  requerer  o  aproveitamento  de  suas  a\u0000vidades  proﬁssionais  como  estágio,  o"
+            ],
+            [
+                "discente deverá apresentar os seguintes documentos:",
+                ""
+            ],
+            [
+                "",
+                "I - se empregado, cópia da página de iden\u0000ﬁcação e da parte da Carteira de Trabalho em"
+            ],
+            [
+                "que  seja  comprovado  o  vínculo  emprega\u0000cio,  ou  portaria  de  nomeação  e  declaração  que  descreva  as",
+                ""
+            ],
+            [
+                "a\u0000vidades que desenvolve, emi\u0000das pela cheﬁa imediata;",
+                ""
+            ],
+            [
+                "II \n- \nse \nautônomo, \ncomprovante \nde \nrecolhimento \ndo \nimposto",
+                "sobre \nserviços,"
+            ],
+            [
+                "correspondente  ao  mês  da  entrada  do  requerimento  e  declaração  que  descreva  as  a\u0000vidades  que",
+                ""
+            ],
+            [
+                "executa;",
+                ""
+            ],
+            [
+                "",
+                "III  -  se  empresário,  cópia  do  contrato  social  da  Empresa  e  declaração  que  descreva  as"
+            ],
+            [
+                "a\u0000vidades que executa.",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "Art.  24.  O  prazo  para  a  decisão  do  aproveitamento  de  a\u0000vidades  proﬁssionais  como",
+                ""
+            ],
+            [
+                "estágio será de até 15 (quinze) dias, a par\u0000r do recebimento de toda a documentação necessária.",
+                "",
+                ""
+            ],
+            [
+                "CAPÍTULO X",
+                "",
+                ""
+            ],
+            [
+                "DO ESTAGIÁRIO",
+                "",
+                ""
+            ],
+            [
+                "A\nrt. 25. Cabe ao estagiário:",
+                "",
+                ""
+            ],
+            [
+                "",
+                "I  -  entregar,  à  Diretoria  de  Extensão  do  Campus  do  IFNMG,  ou  órgão  equivalente,  os",
+                ""
+            ],
+            [
+                "documentos devidamente preenchidos e assinados, para formalização, conforme os incisos I a III do art.",
+                "",
+                ""
+            ],
+            [
+                "4º e §1º do art. 13;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "II - respeitar as cláusulas do Termo de Compromisso e Termo de Convênio, quando houver;",
+                ""
+            ],
+            [
+                "III - acatar as normas da en\u0000dade concedente;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "IV - entregar Relatório Parcial das A\u0000vidades de Estágio, com periodicidade máxima de 06",
+                ""
+            ],
+            [
+                "(seis) meses, nos casos em que o estágio for superior a este tempo;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "V - apresentar, ao professor-orientador, para correção e parecer de aprovação, o Relatório",
+                ""
+            ],
+            [
+                "Final de Estágio;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "VI  -  após  aprovação,  encaminhar,  ao  professor-orientador,  o  Relatório  Final,  em  formato",
+                ""
+            ],
+            [
+                "digital, contendo:",
+                "",
+                ""
+            ],
+            [
+                "a) plano de estágio;",
+                "",
+                ""
+            ],
+            [
+                "b) ﬁcha de avaliação de estágio, feita pelo estagiário;",
+                "",
+                ""
+            ],
+            [
+                "c) ﬁcha de avaliação de estágio, feita pela en\u0000dade concedente.",
+                "",
+                ""
+            ],
+            [
+                "",
+                "VII  -  defender,  formalmente,  o  Relatório  Final  de  Estágio,  quando  previsto  no  Projeto",
+                ""
+            ],
+            [
+                "Pedagógico do Curso;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "VIII  -  comunicar,  ao  seu  professor-orientador  e  à  Diretoria  de  Extensão  do  Campus,  ou",
+                ""
+            ],
+            [
+                "órgão  equivalente,  problemas  ou  diﬁculdades  enfrentadas  no  estágio,  bem",
+                "como",
+                "sua  eventual"
+            ],
+            [
+                "desistência ou interesse em prorrogar o tempo deste.",
+                "",
+                ""
+            ],
+            [
+                "",
+                "Parágrafo único. O Relatório Final de Estágio é o documento de conclusão do estágio, que",
+                ""
+            ],
+            [
+                "deverá  descrever,  de  forma  detalhada,  todas  as  a\u0000vidades  desenvolvidas  durante  o  período,  conforme",
+                "",
+                ""
+            ],
+            [
+                "normas estabelecidas pelo campus.",
+                "",
+                ""
+            ],
+            [
+                "CAPÍTULO XI",
+                "",
+                ""
+            ],
+            [
+                "",
+                "DA DIRETORIA DE EXTENSÃO DO CAMPUS DO IFNMG, OU ÓRGÃO EQUIVALENTE",
+                ""
+            ],
+            [
+                "",
+                "Art. 26. Cabe à Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente:",
+                ""
+            ],
+            [
+                "I - iden\u0000ﬁcar e divulgar as oportunidades de estágio;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "II - prestar serviços administra\u0000vos de cadastramento de discentes e de toda a execução",
+                ""
+            ],
+            [
+                "do processo de formalização do estágio;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "III  -  providenciar,  junto  à  Direção-Geral  do  campus,  contrato  de  seguro  contra  acidentes",
+                ""
+            ],
+            [
+                "pessoais em favor dos estagiários, quando couber;",
+                "",
+                ""
+            ],
+            [
+                "IV - encaminhar, à en\u0000dade concedente, o discente candidato a estágio;",
+                "",
+                ""
+            ],
+            [
+                "",
+                "V - selecionar, quando houver convênio com a en\u0000dade concedente, o discente estagiário;",
+                ""
+            ],
+            [
+                "VI - assegurar a legalidade do processo de estágio;",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "VII - assinar o Termo de Compromisso, celebrado entre o IFNMG, a en\u0000dade concedente e"
+            ],
+            [
+                "o estagiário, desde de que haja delegação formal de tal competência;",
+                ""
+            ],
+            [
+                "",
+                "VIII  -  propor  normas  complementares  e  instrumentos  de  avaliação  dos  estágios  para  os"
+            ],
+            [
+                "discentes do IFNMG;",
+                ""
+            ],
+            [
+                "",
+                "IX - enviar, à Proex, ao ﬁnal de cada semestre, por meio do Sistema de Informes e Registros"
+            ],
+            [
+                "das Ações de Extensão, as ações rela\u0000vas aos estágios.",
+                ""
+            ],
+            [
+                "CAPÍTULO XII",
+                ""
+            ],
+            [
+                "DO PROFESSOR-ORIENTADOR",
+                ""
+            ],
+            [
+                "Art. 27. Cabe ao professor-orientador:",
+                ""
+            ],
+            [
+                "",
+                "I  -  orientar  o  discente  na  elaboração  do  plano  de  estágio,  no  desenvolvimento  das"
+            ],
+            [
+                "a\u0000vidades e na confecção do Relatório Final de Estágio;",
+                ""
+            ],
+            [
+                "",
+                "II - monitorar o envio e o recebimento de documentos rela\u0000vos ao acompanhamento do"
+            ],
+            [
+                "estágio;",
+                ""
+            ],
+            [
+                "III - esclarecer, aos discentes, temas de interesse do estágio;",
+                ""
+            ],
+            [
+                "",
+                "IV  -  par\u0000cipar  de  eventos  relacionados  ao  estágio,  incluindo  as  reuniões  para  tratar  de"
+            ],
+            [
+                "assuntos aﬁns, quando convocado ou convidado pelas instâncias dire\u0000vas do IFNMG;",
+                ""
+            ],
+            [
+                "",
+                "V - emi\u0000r parecer de aprovação total ou parcial na Ficha de Avaliação do Estágio feita pela"
+            ],
+            [
+                "en\u0000dade concedente;",
+                ""
+            ],
+            [
+                "",
+                "VI - encaminhar a Declaração de Conclusão, total ou parcial, do estágio à Coordenação de"
+            ],
+            [
+                "Curso ou à Coordenação de Estágio;",
+                ""
+            ],
+            [
+                "",
+                "VII  -  comunicar,  à  Diretoria  de  Extensão  ou  órgão  equivalente,  à  Coordenação  de  Curso,"
+            ],
+            [
+                "Coordenação  de  Estágio,  ou  órgão  equivalente,  as  desistências,",
+                "irregularidades  e  necessidade  de"
+            ],
+            [
+                "prorrogação.",
+                ""
+            ],
+            [
+                "CAPÍTULO XIII",
+                ""
+            ],
+            [
+                "DO COORDENADOR DE CURSO, OU CARGO EQUIVALENTE",
+                ""
+            ],
+            [
+                "A\nrt. 28. Cabe ao coordenador de curso, ou cargo equivalente:",
+                ""
+            ],
+            [
+                "",
+                "I - deﬁnir o quan\u0000ta\u0000vo de estagiários, por professor, entre os professores do respec\u0000vo"
+            ],
+            [
+                "curso, consideradas as especiﬁcidades do estágio e consultado o colegiado de curso;",
+                ""
+            ],
+            [
+                "II - avaliar o Plano de Estágio;",
+                ""
+            ],
+            [
+                "",
+                "III - solicitar parecer, no caso de aproveitamento proﬁssional, e deliberar sobre o assunto."
+            ],
+            [
+                "",
+                "§  1º  O  coordenador  de  curso  poderá  indicar  um  professor  organizador  do  estágio,  do"
+            ],
+            [
+                "próprio curso, para auxiliar nas a\u0000vidades rela\u0000vas ao estágio.",
+                ""
+            ],
+            [
+                "",
+                "§  2º  Para  os  campi  que  possuírem,  em  seu  quadro  de  servidores,  o  coordenador  de"
+            ],
+            [
+                "estágio, este poderá exercer as seguintes a\u0000vidades, em subs\u0000tuição ao coordenador do curso:",
+                ""
+            ],
+            [
+                "I - fornecer, ao estagiário, a documentação necessária à efe\u0000vação do estágio;",
+                ""
+            ],
+            [
+                "",
+                "II  -  atestar  se  o  estudante  cumpre  os  pré-requisitos  do  Projeto  Pedagógico  do  curso,  no"
+            ],
+            [
+                "Requerimento de Estágio, e despachá-lo ao estudante e à Diretoria/Coordenação de Extensão;",
+                ""
+            ],
+            [
+                "",
+                "III - encaminhar a Declaração de Conclusão Total do estagiário à Diretoria/Coordenação de"
+            ],
+            [
+                "Extensão,  ou  Núcleo  de  Relações  Empresariais  e  Comerciais,  ou  Coordenação  de  Estágio  e  à",
+                ""
+            ]
+        ],
+        [
+            [
+                "Coordenadoria de Registro Escolar/Coordenadoria de Registro Acadêmico, para registro e arquivamento;"
+            ],
+            [
+                "IV - arquivar, em formato digital, o Relatório Final de Estágio dos discentes."
+            ],
+            [
+                "CAPÍTULO XIV"
+            ],
+            [
+                "DA COORDENAÇÃO DE REGISTRO ACADÊMICO OU ESCOLAR"
+            ],
+            [
+                "Art. 29. Cabe à Coordenação de Registro Acadêmico ou Escolar:"
+            ],
+            [
+                "I - atestar, no Requerimento de Estágio, se o estudante está regularmente matriculado no"
+            ],
+            [
+                "curso e habilitado a realizar o estágio;"
+            ],
+            [
+                "II - receber e arquivar a Declaração de Conclusão de Estágio da Diretoria/Coordenação de"
+            ],
+            [
+                "Extensão ou do Núcleo de Relações Empresariais e Comerciais;"
+            ],
+            [
+                "III - registrar a conclusão e as horas do estágio obrigatório no histórico do estudante."
+            ],
+            [
+                "CAPÍTULO XV"
+            ],
+            [
+                "DA DIREÇÃO DE ENSINO, OU ÓRGÃO EQUIVALENTE E DA DIRETORIA DE PESQUISA, PÓS-GRADUAÇÃO E"
+            ],
+            [
+                "INOVAÇÃO"
+            ],
+            [
+                "A\nrt.  30.  Cabe  à  Direção  de  Ensino,  ou  órgão  equivalente  nos  campi,  e  à  Diretoria  de"
+            ],
+            [
+                "Pesquisa, Pós- Graduação e Inovação, na Reitoria:"
+            ],
+            [
+                "I - auxiliar, em parceria com a Diretoria de Extensão, ou órgão equivalente, na elaboração"
+            ],
+            [
+                "de regulamentos especíﬁcos e instrumentos de acompanhamento e avaliação dos estágios, respeitando"
+            ],
+            [
+                "os projetos de curso e a legislação em vigor;"
+            ],
+            [
+                "II - deﬁnir data limite para entrega, por parte do discente, do Relatório Final de Estágio, ao"
+            ],
+            [
+                "professor-orientador, para revisão/correção, obedecendo aos prazos estabelecidos neste regulamento;"
+            ],
+            [
+                "III  -  proporcionar,  aos  professores-orientadores  de  estágio,  horários  e  condições  para  o"
+            ],
+            [
+                "desempenho de suas funções, para acompanhamento de cada estagiário nas a\u0000vidades desenvolvidas na"
+            ],
+            [
+                "unidade concedente;"
+            ],
+            [
+                "IV - deﬁnir as datas e os professores responsáveis pelas bancas de defesa do relatório de"
+            ],
+            [
+                "estágio, quando houver."
+            ],
+            [
+                "CAPÍTULO XVI"
+            ],
+            [
+                "DA ENTIDADE CONCEDENTE DE ESTÁGIO"
+            ],
+            [
+                "A\nrt. 31. Cabe à en\u0000dade concedente do estágio:"
+            ],
+            [
+                "I  -  celebrar  convênio  e/ou  fazer  cadastro  para  concessão  de  estágio,  junto  à  Diretoria  de"
+            ],
+            [
+                "Extensão, ou órgão equivalente;"
+            ],
+            [
+                "II  -  comunicar,  à  Diretoria  de  Extensão,  ou  órgão  equivalente,  a  existência  de  vagas  para"
+            ],
+            [
+                "estagiários, bem como os requisitos necessários para seu preenchimento;"
+            ],
+            [
+                "III - ﬁrmar, com o IFNMG e o estagiário, o Termo de Compromisso de Estágio;"
+            ],
+            [
+                "IV - estabelecer o valor da bolsa-auxílio e auxílio-transporte ao estagiário, quando couber;"
+            ],
+            [
+                "V - contratar, em favor do estagiário, seguro contra acidentes pessoais, quando couber;"
+            ]
+        ],
+        [
+            [
+                "VI - indicar o supervisor de estágio, com formação ou experiência proﬁssional na área de"
+            ],
+            [
+                "conhecimento desenvolvida no curso do estagiário;"
+            ],
+            [
+                "VII - informar, ao estagiário, as normas da en\u0000dade concedente;"
+            ],
+            [
+                "VIII  -  assegurar,  ao  estagiário,  todas  as  condições  necessárias  para  a  plena  realização  de"
+            ],
+            [
+                "seu estágio, nos termos do art. 2º deste regulamento;"
+            ],
+            [
+                "IX  -  comunicar,  à  Diretoria  de  Extensão  do  Campus  do  IFNMG,  ou  órgão  equivalente,"
+            ],
+            [
+                "quaisquer necessidades de alterações no Termo de Compromisso de Estágio celebrado;"
+            ],
+            [
+                "X - enviar, à ins\u0000tuição de ensino, com periodicidade mínima de seis meses, relatório de"
+            ],
+            [
+                "a\u0000vidades, dando vista obrigatória ao estagiário;"
+            ],
+            [
+                "XI  -  encaminhar,  à  Diretoria  de  Extensão,  ou  órgão  equivalente,  após  a  conclusão  do"
+            ],
+            [
+                "estágio, a Ficha de Avaliação de Estágio, devidamente assinada."
+            ]
+        ],
+        [
+            [
+                "",
+                "",
+                "b. entrega do Relatório Final de Estágio, aprovado pelo professor-orientador de estágio, à",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "IV - especiﬁcamente, no caso de estágio não obrigatório, entrega da Ficha de Avaliação de",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Estágio, realizada pela en\u0000dade concedente.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "CAPÍTULO XX",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "DA AVALIAÇÃO DO ESTÁGIO",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt. 35. O estágio é composto por duas avaliações:",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "I  -  a  avaliação  realizada  pelo  supervisor  de  estágio,  efe\u0000vada  por  meio  de  Relatório  de",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Estágio (feito pela en\u0000dade concedente), dando vista obrigatória ao estagiário;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "II  -  a  avaliação  ﬁnal  de  estágio,  feita  pelo  professor-orientador,  efe\u0000vada  por  meio  de",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Relatório Final de Estágio, ou por defesa com sustentação oral.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "Parágrafo  único.  As  avaliações  do  estágio  serão  regulamentadas  pelo  Projeto  Pedagógico",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "do Curso.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt. 36. Na avaliação das a\u0000vidades desenvolvidas pelo estagiário, serão consideradas:",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "I - a compa\u0000bilidade das a\u0000vidades desenvolvidas com o currículo do curso e com o Plano",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "de Estágio;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "II - a qualidade e eﬁcácia na realização das a\u0000vidades;",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "III",
+                "-",
+                "a",
+                "capacidade",
+                "inovadora  ou",
+                "cria\u0000va  demonstrada,  por  meio  das",
+                "a\u0000vidades"
+            ],
+            [
+                "desenvolvidas;",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "IV - a capacidade de adaptar-se ao ambiente de trabalho.",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt. 37. Caso o discente tenha seu estágio reprovado, parcial ou totalmente, deverá refazer",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "os procedimentos previstos no Projeto Pedagógico do Curso.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "CAPÍTULO XXI",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "DAS IRREGULARIDADES E PUNIÇÕES",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt.  38.O  não  cumprimento  das  normas  estabelecidas  neste  regulamento  resultará  na",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "perda das horas estagiadas ou na invalidação do estágio.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt.  39.  Qualquer  irregularidade  ocorrida  deverá  ser  relatada  à  Diretoria  de  Extensão  do",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "Campus do IFNMG, ou órgão equivalente, com a devida documentação.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "CAPÍTULO XXII",
+                "",
+                ""
+            ],
+            [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "DAS DISPOSIÇÕES GERAIS",
+                "",
+                ""
+            ],
+            [
+                "",
+                "A",
+                "rt. 40. A realização do estágio por parte do discente não acarretará vínculo emprega\u0000cio",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            [
+                "de qualquer natureza para com a en\u0000dade concedente de estágio.",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        ],
+        [
+            [
+                "",
+                "Art. 41. Será permi\u0000da a renovação do estágio, desde que seja obedecido o prazo máximo"
+            ],
+            [
+                "estabelecido no art. 7º.",
+                ""
+            ],
+            [
+                "A",
+                "rt.  42.  Visitas  técnicas,  palestras,  feiras  e  outros  eventos  de  curta  duração  não  serão"
+            ],
+            [
+                "computados como horas de estágio.",
+                ""
+            ],
+            [
+                "A",
+                "rt. 43. O estagiário de outra ins\u0000tuição de ensino que necessitar cumprir o estágio junto"
+            ],
+            [
+                "ao IFNMG deverá apresentar a carta de apresentação, elaborada pela ins\u0000tuição de origem, solicitando o",
+                ""
+            ],
+            [
+                "acompanhamento do estágio, informando o período pretendido e a área de conhecimento.",
+                ""
+            ],
+            [
+                "",
+                "Parágrafo único. O discente que se enquadrar no caput deste ar\u0000go deverá cumprir todas"
+            ],
+            [
+                "as normas estabelecidas neste regulamento, assim como as demais normas internas regentes do IFNMG.",
+                ""
+            ],
+            [
+                "A",
+                "rt. 44. O setor de estágios, ou órgão equivalente, não terá obrigatoriedade de conseguir a"
+            ],
+            [
+                "vaga de estágio para o discente do IFNMG; porém, efe\u0000vará entendimentos, junto à parte concedente, no",
+                ""
+            ],
+            [
+                "sen\u0000do de facilitar o encaminhamento de discentes.",
+                ""
+            ],
+            [
+                "A\nrt.  45.  Respeitadas  as  condições  gerais  estabelecidas  pelo",
+                "IFNMG  e,  devidamente"
+            ],
+            [
+                "autorizado,  o  discente  poderá  obter  a  própria  vaga  de  estágio,  desde  que  atendidos  os  requisitos",
+                ""
+            ],
+            [
+                "propostos neste regulamento e no Projeto Pedagógico do Curso.",
+                ""
+            ],
+            [
+                "A\nrt.  46.  Os \ncasos  omissos \ne/ou  dúvidas",
+                "suscitadas,  quando  da \naplicação  deste"
+            ],
+            [
+                "regulamento, serão resolvidos pela Diretoria de Extensão do Campus do IFNMG, ou órgão equivalente.",
+                ""
+            ],
+            [
+                "A",
+                "rt. 47. Este Regulamento deverá ser revisto, quando houver necessidade, por inicia\u0000va do"
+            ],
+            [
+                "Comitê de Extensão – Coex ou Comitê de Ensino – Coen.",
+                ""
+            ],
+            [
+                "Referência: Processo nº 23414.003519/2018-11",
+                "SEI nº 1539646"
+            ]
+        ]
+    ]
+}

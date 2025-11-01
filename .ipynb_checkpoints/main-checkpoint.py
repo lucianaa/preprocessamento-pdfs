@@ -78,8 +78,8 @@ def main():
 
     print("3. Detectando estrutura...")
     structured_content = detect_structure(str(input_pdf_path), normalized_text)
-    
-    print("4. Extraindo tabelas...") 
+
+    print("4. Extraindo tabelas...")
     tables_data = extract_tables(str(input_pdf_path))
 
     print("5. Deduplicando conteúdo...")
