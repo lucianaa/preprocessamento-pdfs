@@ -1,0 +1,3306 @@
+{
+    "tables": [
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 20 INGRESSANTES (MATUTINO)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Manhã \n07:20 – 8:10",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Sexta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    }
+                },
+                {
+                    "Horário": "2° Manhã \n8:10 – 9:00",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Sexta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    }
+                },
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Segunda": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Terça": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quinta": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Sexta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Segunda": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Terça": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quinta": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Sexta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 20 INGRESSANTES (MATUTINO). Salas: P2 – Sala 7, P2-LAB CC (quando indicado)",
+            "legenda": "P2 – Sala 7, P2-LAB CC (quando indicado)",
+            "pagina_origem": 1
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 30 (MATUTINO)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Manhã \n07:20 – 8:10",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Arq. Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    }
+                },
+                {
+                    "Horário": "2° Manhã \n8:10 – 9:00",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Arq. Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    }
+                },
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 30 (MATUTINO). Salas: P2 - Sala 9, P2-LAB CC (quando indicado)",
+            "legenda": "P2 - Sala 9, P2-LAB CC (quando indicado)",
+            "pagina_origem": 2
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 50 PERÍODO (VESPERTINO)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Engenharia de Software",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Organização e Sistemas de Arquivos",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Engenharia de Software",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Organização e Sistemas de Arquivos",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Engenharia de Software  Lab CC P-2",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Engenharia de Software  Lab CC P-2",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 50 PERÍODO (VESPERTINO). Salas: P2 – sala 9, P2-LAB CC (quando indicado)",
+            "legenda": "P2 – sala 9, P2-LAB CC (quando indicado)",
+            "pagina_origem": 3
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 70 PERÍODO (MATUTINO)",
+            "cabecalho": [
+                "Horário",
+                "Terça",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Manhã \n07:20 – 8:10",
+                    "Terça": {
+                        "disciplina": "Computação Gráfica",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "2° Manhã \n8:10 – 9:00",
+                    "Terça": {
+                        "disciplina": "Computação Gráfica",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Terça": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Terça": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 70 PERÍODO (MATUTINO). Salas: P2 – Sala 8 ou P2- LAB CC ou P2-LabRedes(quando indicado)",
+            "legenda": "P2 – Sala 8 ou P2- LAB CC ou P2-LabRedes(quando indicado)",
+            "pagina_origem": 4
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 90 PERÍODO / Optativas",
+            "cabecalho": [
+                "Horário",
+                "Coluna_Vazia_1",
+                "Coluna_Vazia_2",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Coluna_Vazia_1": "Tópicos em IC \n(Luciana B.)",
+                    "Coluna_Vazia_2": "Informática, ética e \nSociedade \n(Tiago)",
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": "Sistemas de \nInformação \n(Luciana B.) \nLab Redes – P2",
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 90 PERÍODO / Optativas. Salas: P2 – Sala 9, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "legenda": "P2 – Sala 9, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "pagina_origem": 5
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: Optativas (Vespertino)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Tarde \n13:20 – \n14:10",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – \n15:00",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – \n16:00",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – \n16:50",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – \n17:50",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – \n18:40",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: Optativas (Vespertino). Salas: P2 – Sala 7, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "legenda": "P2 – Sala 7, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "pagina_origem": 6
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: RE-OFERTAS  (Vespertino)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Quarta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: RE-OFERTAS  (Vespertino). Salas: P2 – sala 7,P2-LAB CC (quando indicado)",
+            "legenda": "P2 – sala 7,P2-LAB CC (quando indicado)",
+            "pagina_origem": 7
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 20 INGRESSANTES (MATUTINO)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Manhã \n07:20 – 8:10",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Sexta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    }
+                },
+                {
+                    "Horário": "2° Manhã \n8:10 – 9:00",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Sexta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    }
+                },
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Segunda": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Terça": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quinta": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Sexta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Segunda": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Terça": {
+                        "disciplina": "Sist. Digitais",
+                        "professor": "Sebastião",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Algoritmos e Programação",
+                        "professor": "Laércio",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quinta": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Sexta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Cálculo Várias Variáveis",
+                        "professor": "Fabricia",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Inglês II",
+                        "professor": "Narah",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Matemática Discreta",
+                        "professor": "Tadeu",
+                        "sala": "Sala 6"
+                    },
+                    "Sexta": {
+                        "disciplina": "Álgebra Linear",
+                        "professor": "Fátima",
+                        "sala": "P2 – Sala 7"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 20 INGRESSANTES (MATUTINO). Salas: P2 – Sala 7, P2-LAB CC (quando indicado)",
+            "legenda": "P2 – Sala 7, P2-LAB CC (quando indicado)",
+            "pagina_origem": 1
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 30 (MATUTINO)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Manhã \n07:20 – 8:10",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Arq. Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    }
+                },
+                {
+                    "Horário": "2° Manhã \n8:10 – 9:00",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Arq. Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Algoritmo e Estruturas de Dados",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    }
+                },
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Segunda": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Terça": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Física Clássica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Arq Comp. I",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Metodologia Científica",
+                        "professor": "Marcos",
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": null,
+                        "sala": "P2 - Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Introdução à Teoria dos Grafos",
+                        "professor": "Tadeu",
+                        "sala": "P2 - Sala 9"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 30 (MATUTINO). Salas: P2 - Sala 9, P2-LAB CC (quando indicado)",
+            "legenda": "P2 - Sala 9, P2-LAB CC (quando indicado)",
+            "pagina_origem": 2
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 50 PERÍODO (VESPERTINO)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Projeto e Análise de Algoritmos",
+                        "professor": "Alberto Miranda",
+                        "sala": "LabCC – P2"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Engenharia de Software",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Organização e Sistemas de Arquivos",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Engenharia de Software",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Organização e Sistemas de Arquivos",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Engenharia de Software  Lab CC P-2",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Pesquisa Operacional",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Terça": {
+                        "disciplina": "Sistemas Operacionais",
+                        "professor": "Caribe",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quarta": {
+                        "disciplina": "Engenharia de Software  Lab CC P-2",
+                        "professor": "Wagner Santos",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Organização e Sistemas de Arquivos  Lab CC P-2",
+                        "professor": "Wagner Barros",
+                        "sala": "P2 – sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Desenvolvimento Web  Lab CC P-2",
+                        "professor": "Luis Guisso",
+                        "sala": "P2 – sala 9"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 50 PERÍODO (VESPERTINO). Salas: P2 – sala 9, P2-LAB CC (quando indicado)",
+            "legenda": "P2 – sala 9, P2-LAB CC (quando indicado)",
+            "pagina_origem": 3
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 70 PERÍODO (MATUTINO)",
+            "cabecalho": [
+                "Horário",
+                "Terça",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Manhã \n07:20 – 8:10",
+                    "Terça": {
+                        "disciplina": "Computação Gráfica",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "2° Manhã \n8:10 – 9:00",
+                    "Terça": {
+                        "disciplina": "Computação Gráfica",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Redes de Computadores",
+                        "professor": "Danilo",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Terça": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Terça": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Complexidade de Problemas e Aproximação",
+                        "professor": "Alberto Miranda",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Sistemas Distribuídos",
+                        "professor": "Danilo",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Terça": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quarta": {
+                        "disciplina": "Computação Gráfica  Lab CC - P2",
+                        "professor": "Wagner B.",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Quinta": {
+                        "disciplina": "Geren. e Apli. de Banco de Dados  Lab CC - P2",
+                        "professor": "Lucio",
+                        "sala": "P2 – Sala 8"
+                    },
+                    "Sexta": {
+                        "disciplina": "Linguagens Formais e Autômatos",
+                        "professor": "Tadeu",
+                        "sala": "P2 – Sala 8"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 70 PERÍODO (MATUTINO). Salas: P2 – Sala 8 ou P2- LAB CC ou P2-LabRedes(quando indicado)",
+            "legenda": "P2 – Sala 8 ou P2- LAB CC ou P2-LabRedes(quando indicado)",
+            "pagina_origem": 4
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: 90 PERÍODO / Optativas",
+            "cabecalho": [
+                "Horário",
+                "Coluna_Vazia_1",
+                "Coluna_Vazia_2",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Coluna_Vazia_1": "Tópicos em IC \n(Luciana B.)",
+                    "Coluna_Vazia_2": "Informática, ética e \nSociedade \n(Tiago)",
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": "Sistemas de \nInformação \n(Luciana B.) \nLab Redes – P2",
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Coluna_Vazia_1": null,
+                    "Coluna_Vazia_2": null,
+                    "Quarta": {
+                        "disciplina": "PTCC",
+                        "professor": "Lúcio",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Quinta": {
+                        "disciplina": "Sistemas de Informação",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 9"
+                    },
+                    "Sexta": {
+                        "disciplina": "Empreendedorismo",
+                        "professor": "Sany",
+                        "sala": "P2 – Sala 9"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: 90 PERÍODO / Optativas. Salas: P2 – Sala 9, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "legenda": "P2 – Sala 9, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "pagina_origem": 5
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: Optativas (Vespertino)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Terça",
+                "Quarta",
+                "Quinta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "1º Tarde \n13:20 – \n14:10",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – \n15:00",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": null,
+                        "professor": null,
+                        "sala": null
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – \n16:00",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – \n16:50",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – \n17:50",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – \n18:40",
+                    "Segunda": {
+                        "disciplina": "Tópicos em IC  Lab CC – P2",
+                        "professor": "Luciana B.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Terça": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quarta": {
+                        "disciplina": "Desenvolvimento para Dispositivos Móveis  Lab CC – P2",
+                        "professor": "Wagner S.",
+                        "sala": "P2 – Sala 7"
+                    },
+                    "Quinta": {
+                        "disciplina": "Tópicos em Sistemas de Informação",
+                        "professor": "Flávio",
+                        "sala": "P2 – Sala 7"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: Optativas (Vespertino). Salas: P2 – Sala 7, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "legenda": "P2 – Sala 7, P2-LAB CC ou P2-LAB Redes (quando indicados)",
+            "pagina_origem": 6
+        },
+        {
+            "tipo": "tabela",
+            "tipo_tabela_identificado": "horario",
+            "titulo": "Horário: RE-OFERTAS  (Vespertino)",
+            "cabecalho": [
+                "Horário",
+                "Segunda",
+                "Quarta"
+            ],
+            "linhas": [
+                {
+                    "Horário": "3° Manhã \n9:10 – 10:00",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "4° Manhã \n10:00 – 10:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "5° Manhã \n11:00 – 11:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "6º Manhã \n11:50 – 12:40",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "ALMOÇO",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "1º Tarde \n13:20 – 14:10",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "2° Tarde \n14:10 – 15:00",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "3° Tarde \n15:10 – 16:00",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "4° Tarde \n16:00 – 16:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "5° Tarde \n17:00 – 17:50",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                },
+                {
+                    "Horário": "6° Tarde \n17:50 – 18:40",
+                    "Segunda": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    },
+                    "Quarta": {
+                        "disciplina": "Introdução a Ciência da Computação",
+                        "professor": "Caribe",
+                        "sala": "LabRedes – P2"
+                    }
+                }
+            ],
+            "resumo_semantico": "Horário para o semestre 1/2025. Turma: RE-OFERTAS  (Vespertino). Salas: P2 – sala 7,P2-LAB CC (quando indicado)",
+            "legenda": "P2 – sala 7,P2-LAB CC (quando indicado)",
+            "pagina_origem": 7
+        }
+    ]
+}
