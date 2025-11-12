@@ -1,63 +1,143 @@
-import pdfplumber
 import re
+import pdfplumber
+from collections import Counter, defaultdict
 
-def extract_raw(pdf_path: str, header_height_ratio: float = 0.1, footer_height_ratio: float = 0.1) -> str:
+def _reconstruct_lines_from_words(page, x_tol=3, y_tol=3):
     """
-    Extrai texto bruto de um PDF, removendo cabeçalhos, rodapés e numeração de páginas
-    com base na análise de layout usando pdfplumber.
-
-    Args:
-        pdf_path (str): O caminho para o arquivo PDF.
-        header_height_ratio (float): Proporção da altura da página para considerar como região de cabeçalho.
-        footer_height_ratio (float): Proporção da altura da página para considerar como região de rodapé.
-
-    Returns:
-        str: O texto extraído e limpo do PDF.
+    Fallback: reconstrói linhas agrupando words por proximidade vertical (y0).
+    Retorna lista de linhas já ordenadas left-to-right, top-to-bottom.
     """
-    all_cleaned_text = []
+    words = page.extract_words()
+    if not words:
+        return []
 
-    with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            page_height = page.height
-            page_width = page.width
+    # Agrupa por "linha" usando aproximação de y0
+    lines_map = []  # lista de (y_mid, [words])
+    for w in words:
+        # cada word tem 'top' e 'bottom' (ou 'doctop'), usar 'top' se disponível
+        y = float(w.get("top") or w.get("doctop") or 0)
+        x = float(w.get("x0") or 0)
+        text = w.get("text", "")
 
-            header_top = 0
-            header_bottom = page_height * header_height_ratio
-            footer_top = page_height * (1 - footer_height_ratio)
-            footer_bottom = page_height
+        placed = False
+        for idx, (y_ref, items) in enumerate(lines_map):
+            if abs(y_ref - y) <= y_tol:
+                items.append((x, text))
+                placed = True
+                break
+        if not placed:
+            lines_map.append((y, [(x, text)]))
 
-            page_text_elements = page.extract_words(x_tolerance=1, y_tolerance=1, keep_blank_chars=False, use_text_flow=True, horizontal_ltr=True, vertical_ttb=True)
-            cleaned_lines = []
-            current_line_text = ""
-            current_line_y = None
+    # Ordena linhas top -> bottom (menor y -> topo) e palavras left->right
+    lines_map.sort(key=lambda p: p[0])
+    lines = []
+    for _, items in lines_map:
+        items.sort(key=lambda it: it[0])
+        line = " ".join(t for _, t in items).strip()
+        if line:
+            lines.append(line)
+    return lines
 
-            page_text_elements.sort(key=lambda x: (x["top"], x["x0"]))
+def extract_raw(pdf_path: str, header_height_ratio: float = 0.15, footer_height_ratio: float = 0.12) -> list[dict]:
+    """
+    Extrai texto bruto de um PDF, removendo cabeçalhos e rodapés e segmentando em blocos (parágrafos).
+    Possui fallback robusto caso page.extract_text retorne None.
+    """
+    all_text_blocks = []
+    header_candidates = []
+    footer_candidates = []
 
-            for word in page_text_elements:
-                x0, y0, x1, y1 = word["x0"], word["top"], word["x1"], word["bottom"]
-
-                is_header = y0 < header_bottom
-                is_footer = y1 > footer_top
-
-                if not is_header and not is_footer:
-                    word_text = word["text"].strip()
-                    if re.fullmatch(r"\d+", word_text) or \
-                       re.fullmatch(r"\(\d+\)", word_text) or \
-                       re.fullmatch(r"\[\d+\]", word_text):
+    try:
+        with pdfplumber.open(pdf_path) as pdf:
+            n_pages = len(pdf.pages)
+            # 1ª passada: coletar possíveis cabeçalhos/rodapés (até 10 páginas)
+            for page in pdf.pages[:min(n_pages, 10)]:
+                text = page.extract_text(x_tolerance=3, y_tolerance=3) or ""
+                if not text.strip():
+                    # fallback: tenta reconstruir a partir de words
+                    lines_fb = _reconstruct_lines_from_words(page)
+                    if not lines_fb:
                         continue
+                    lines = lines_fb
+                else:
+                    lines = [ln.strip() for ln in text.split("\n") if ln and ln.strip()]
 
-                    if current_line_y is None or abs(y0 - current_line_y) < (word["height"] / 2):
-                        current_line_text += (" " if current_line_text else "") + word_text
-                        current_line_y = y0
-                    else:
-                        cleaned_lines.append(current_line_text.strip())
-                        current_line_text = word_text
-                        current_line_y = y0
-            if current_line_text:
-                cleaned_lines.append(current_line_text.strip())
+                if len(lines) < 1:
+                    continue
+                header_candidates.append(lines[0])
+                footer_candidates.append(lines[-1])
 
-            page_content = "\n".join(line for line in cleaned_lines if line)
-            if page_content:
-                all_cleaned_text.append(page_content)
+            # Detecta os mais comuns (apenas se aparecerem >2 vezes)
+            common_header = None
+            common_footer = None
+            if header_candidates:
+                header_count = Counter(header_candidates).most_common(1)
+                if header_count and header_count[0][1] > 2:
+                    common_header = header_count[0][0]
+            if footer_candidates:
+                footer_count = Counter(footer_candidates).most_common(1)
+                if footer_count and footer_count[0][1] > 2:
+                    common_footer = footer_count[0][0]
 
-    return "\n\n".join(all_cleaned_text).strip()
+            # 2ª passada: extração por página com crop + fallback e segmentação
+            for page_num, page in enumerate(pdf.pages, 1):
+                page_height = page.height
+                page_width = page.width
+
+                content_bbox = (
+                    0,
+                    page_height * header_height_ratio,
+                    page_width,
+                    page_height * (1 - footer_height_ratio)
+                )
+                content_page = page.crop(bbox=content_bbox)
+
+                page_text = content_page.extract_text(x_tolerance=3, y_tolerance=3)
+
+                # Se extract_text retornou None ou vazio, tenta reconstruir por words
+                if not page_text or not page_text.strip():
+                    lines = _reconstruct_lines_from_words(content_page)
+                else:
+                    # split seguro - garantimos page_text ser string
+                    lines = [ln.strip() for ln in page_text.split("\n") if ln and ln.strip()]
+
+                # Remove cabeçalho/rodapé detectados (comparação por prefixo)
+                if common_header and lines and lines[0].startswith(common_header[:15]):
+                    lines = lines[1:]
+                if common_footer and lines and lines[-1].startswith(common_footer[:15]):
+                    lines = lines[:-1]
+
+                if not lines:
+                    continue
+
+                # Junta linhas em um único texto para aplicar heurística semântica depois
+                page_text_clean = " ".join(lines)
+
+                # Heurística de parágrafos (divide por sentence boundaries + conectores comuns)
+                paragraph_candidates = re.split(
+                    r'\.\n|(?=\b(Diante|Além disso|Assim|Portanto|Os números|Com base|Em seguida|Dessa forma|Por fim|Ciente|Dando continuidade)\b)',
+                    page_text_clean
+                    )
+
+                # Filtra e adiciona blocos robustos
+                for para in paragraph_candidates:
+                    if not para:
+                        continue
+                    para = para.strip()
+                    # elimina strings muito curtas (p. ex. letras soltas) — ajuste conforme necessidade
+                    if len(para) < 30:
+                        # se for título curto em maiúsculas, ainda pode ser útil
+                        if para.isupper() and len(para) > 5:
+                            pass
+                        else:
+                            continue
+                    all_text_blocks.append({
+                        "text": para,
+                        "page": page_num
+                    })
+
+    except Exception as e:
+        print(f"❌ Erro ao processar PDF '{pdf_path}': {e}")
+        return []
+
+    return all_text_blocks

@@ -16,6 +16,7 @@ def main():
     print("\n--- Pipeline de Processamento de Documentos --- ")
 
     # --- Configuração de Diretórios ---
+    # Ajuste para o caminho correto, já que o script está em project/src/
     input_dir = Path('data/input')
     output_dir = Path('data/output')
     
@@ -69,15 +70,19 @@ def main():
         standardization_map = {}
 
     # --- Execução do Pipeline ---
-    print("\n1. Extraindo texto bruto...")
-    raw_text = extract_raw(str(input_pdf_path))
+    print("\n1. Extraindo blocos de texto com metadados (página, bbox)...")
+    text_blocks = extract_raw(str(input_pdf_path))
+
+    # Concatena o texto para a normalização (o normalized_text não é mais usado na detecção de estrutura)
+    raw_text = " ".join(block["text"] for block in text_blocks)
 
     print("2. Normalizando texto...")
     normalized_text = normalize_text(raw_text, acronyms=acronyms, standardization_map=standardization_map)
     print(f"   Prévia: '{normalized_text[:100]}...'")
 
     print("3. Detectando estrutura...")
-    structured_content = detect_structure(str(input_pdf_path), normalized_text)
+    # A função detect_structure agora recebe os blocos de texto com metadados
+    structured_content = detect_structure(str(input_pdf_path), text_blocks)
 
     print("4. Extraindo tabelas...")
     tables_data = extract_tables(str(input_pdf_path))
